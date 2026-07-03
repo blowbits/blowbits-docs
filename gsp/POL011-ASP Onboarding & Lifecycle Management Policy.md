@@ -58,7 +58,3 @@ The governance framework includes:
 Compliance with this policy is supported through documented procedures, operational practices, lifecycle records and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy and applicable GSTN requirements.
-
-## Standard Statement
-
-This policy establishes the governance principles for onboarding and managing Application Service Providers (ASPs) authorised to access the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures and applicable GSTN requirements.

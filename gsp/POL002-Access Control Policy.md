@@ -56,7 +56,3 @@ The lifecycle includes:
 Compliance with this policy is supported through documented procedures, operational practices, access reviews and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
-
-## Standard Statement
-
-This policy establishes the access control principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.

@@ -10,6 +10,8 @@ This document identifies the authorised Single Points of Contact (SPOCs) respons
 
 The directory supports routine operational coordination, production support, application onboarding, regulatory communication and security incident coordination.
 
+It shall be used as the primary reference for routine communications and external coordination with GSTN.
+
 # 2. Scope
 
 This directory applies to all routine communications with GSTN relating to:
@@ -66,7 +68,3 @@ This directory shall be reviewed periodically and updated whenever there is a ch
 - Security Incident Reporting & Escalation Plan
 - SOP-001 – ASP Onboarding Procedure
 - SOP-005 – Incident Response Procedure
-
-## Standard Statement
-
-This directory defines the authorised communication contacts responsible for operational, technical and regulatory coordination between Blowbits Solutions LLP and GSTN. It shall be used as the primary reference for routine communications and external coordination with GSTN.

@@ -98,7 +98,3 @@ Supporting operational records, system logs and other technical evidence may be 
 # 10. Review
 
 This procedure shall be reviewed annually or whenever significant changes occur to the production environment or patch management process.
-
-## Standard Statement
-
-Blowbits Solutions LLP follows a structured patch and security update process to identify, evaluate, test, deploy and verify security updates for the GST Suvidha Provider (GSP) platform. Security updates are applied in a timely manner based on operational requirements and assessed risk, and supporting technical evidence is maintained through operational records and system logs.

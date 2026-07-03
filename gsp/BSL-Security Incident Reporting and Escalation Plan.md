@@ -101,7 +101,3 @@ This plan shall be reviewed periodically and updated whenever significant operat
 
 - POL-012 – Incident Response Policy
 - SOP-005 – Incident Response Procedure
-
-## Standard Statement
-
-This document establishes the reporting, escalation and communication framework for information security incidents affecting the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. It identifies the authorised internal and external communication contacts responsible for coordinating operational, regulatory and statutory incident reporting.

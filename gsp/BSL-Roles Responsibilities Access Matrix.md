@@ -45,7 +45,3 @@ Unnecessary or obsolete access shall be removed promptly.
 # 7. Review
 
 This document shall be reviewed annually or whenever there is a change in organisational responsibilities or assigned personnel.
-
-## Standard Statement
-
-This document establishes the organisational roles, assigned personnel, responsibilities and authorised access principles for the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform and supports effective governance through clearly defined accountability and access management.

@@ -67,7 +67,3 @@ Information security risks shall be reviewed:
 # 7. Review
 
 This document shall be reviewed annually or whenever significant operational, organisational or regulatory changes occur.
-
-## Standard Statement
-
-Blowbits Solutions LLP maintains an ongoing information security risk assessment process to identify, evaluate and manage risks affecting the GST Suvidha Provider (GSP) platform. Appropriate administrative, technical and operational controls are implemented to reduce identified risks to an acceptable level and are reviewed periodically to ensure their continued effectiveness.

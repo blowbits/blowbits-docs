@@ -91,7 +91,3 @@ Supporting operational records, system logs and other technical evidence may be 
 # 6. Compliance
 
 Compliance with this procedure is supported through documented operational records and implementation evidence maintained in accordance with organisational procedures.
-
-## Standard Statement
-
-This procedure establishes the operational process for managing changes affecting the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
