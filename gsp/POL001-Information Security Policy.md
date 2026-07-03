@@ -14,7 +14,7 @@ The objective of this policy is to protect information assets supporting GSP ser
 
 This policy applies to all applications, infrastructure, operational processes, personnel and information assets associated with the delivery, operation and support of the Blowbits Solutions LLP GSP platform.
 
-Supporting procedures, technical standards and implementation evidence are maintained separately.
+Supporting policies, procedures, risk assessments, operational records, technical standards and implementation evidence are maintained separately.
 
 # 3. Information Security Framework
 
@@ -27,29 +27,77 @@ The framework is established to:
 - Protect authentication credentials and sensitive operational information.
 - Maintain reliable and secure delivery of GSP services.
 - Support compliance with applicable regulatory, contractual and organisational requirements.
+- Identify, assess and manage information security risks through the Information Security Risk Assessment.
 - Promote continual improvement of information security controls.
 
-# 4. Information Security Principles
+# 4. Control Domains
+
+The information security framework is implemented through supporting control domains, including:
+
+- Roles, responsibilities and governance oversight.
+- Information security risk assessment and risk treatment.
+- Access control and credential management.
+- Infrastructure and network security.
+- Logging, monitoring and operational review.
+- Vulnerability management and security assessment.
+- Change management.
+- Backup, recovery and business continuity.
+- Incident response and corrective action management.
+- ASP onboarding and lifecycle management where applicable.
+
+# 5. Information Security Principles
 
 The GSP platform operates according to the following principles:
 
 - Information is protected according to its operational value and sensitivity.
 - Access to information and systems is restricted to authorised users, applications and processes.
 - Security controls are integrated throughout the operational lifecycle of GSP services.
-- Information security risks are identified and managed through appropriate controls.
-- Security events are managed through established operational procedures.
-- Information security controls are periodically reviewed to support their continued effectiveness.
+- Information security risks are identified, assessed, treated and reviewed through defined governance processes.
+- Security events are reported and managed through established operational procedures.
+- Security controls are periodically reviewed to support their continued effectiveness.
+- Exceptions to information security controls are reviewed, approved and documented where applicable.
 
-# 5. Governance
+# 6. Roles and Accountability
 
 Information security responsibilities are assigned through defined organisational roles and operational processes.
 
-Management provides oversight of the information security framework, while personnel are responsible for complying with applicable policies, procedures and security controls relevant to their assigned responsibilities.
+The Roles, Responsibilities & Access Matrix defines role-level accountability, authority and authorised access for internal roles.
 
-Governance activities are supported by operational records, assessments and implementation evidence maintained in accordance with organisational procedures.
+Information security governance is supported by the following role responsibilities:
 
-# 6. Compliance
+- The GSP Governance Lead provides governance oversight, policy approval, risk acceptance, exception review and approval for significant security decisions.
+- The Information Security Lead coordinates security monitoring, vulnerability management, security assessment, incident assessment and security control review activities.
+- The Platform Operations Lead implements and maintains operational platform controls for infrastructure, applications, backups, recovery and production support.
+- The GSP Coordination Lead coordinates authorised external communication relating to GSTN, ASPs and GSP operational matters where applicable.
 
-Compliance with this policy is supported through documented procedures, operational practices, security assessments and implementation evidence.
+Current role assignments and contact details are maintained in the Contact Directory.
+
+# 7. Risk Management
+
+Information security risks affecting the GSP platform shall be identified, assessed, treated and reviewed through the Information Security Risk Assessment.
+
+Risk treatment decisions may include mitigation, monitoring, acceptance or corrective action, depending on business impact, likelihood, regulatory relevance and available controls.
+
+Residual risks and exceptions shall be reviewed by the GSP Governance Lead. Compensating controls shall be documented where complete risk elimination or segregation of duties is not practical.
+
+# 8. Personnel Responsibilities
+
+Personnel are responsible for complying with applicable policies, procedures and security controls relevant to their assigned responsibilities.
+
+Personnel shall report suspected security events, control weaknesses, unauthorised access, credential compromise or other information security concerns through established reporting channels.
+
+# 9. Governance
+
+Governance activities are supported by operational records, risk assessments, security assessments, access reviews, incident records, change records and implementation evidence maintained in accordance with organisational procedures.
+
+The GSP Governance Lead provides oversight of the information security framework, while assigned role owners are responsible for implementing and operating applicable controls.
+
+# 10. Compliance
+
+Compliance with this policy is supported through documented procedures, operational practices, security assessments, risk assessments, review records and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
+
+# 11. Review
+
+This policy shall be reviewed annually or whenever significant operational, organisational, technical, regulatory or contractual changes occur.
