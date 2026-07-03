@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# GSTN COMMUNICATION & SPOC DIRECTORY
-
-**Classification:** Internal
-
+---
+title: GSTN COMMUNICATION & SPOC DIRECTORY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -11,8 +9,6 @@
 This document identifies the authorised Single Points of Contact (SPOCs) responsible for operational and regulatory communication between Blowbits Solutions LLP and the Goods and Services Tax Network (GSTN).
 
 The directory supports routine operational coordination, production support, application onboarding, regulatory communication and security incident coordination.
-
----
 
 # 2. Scope
 
@@ -25,8 +21,6 @@ This directory applies to all routine communications with GSTN relating to:
 - Regulatory Communication
 - Security Incident Coordination
 
----
-
 # 3. Internal Contacts
 
 | Function | Contact Person | Mobile | Email |
@@ -35,16 +29,12 @@ This directory applies to all routine communications with GSTN relating to:
 | Technical & Security SPOC | | | |
 | Management Representative | | | |
 
----
-
 # 4. GSTN Contacts
 
 | Organisation | Purpose | Contact Person | Mobile | Email |
 |--------------|---------|----------------|---------|-------|
 | GSTN GSP SPOC | Primary GSP Coordination | | | |
 | GSTN Customer Support | Operational Support | | | |
-
----
 
 # 5. Communication Responsibilities
 
@@ -57,8 +47,6 @@ This directory applies to all routine communications with GSTN relating to:
 | Regulatory Communication | GSP SPOC |
 | Management Escalation | Management Representative |
 
----
-
 # 6. Communication Channels
 
 Official communication with GSTN may be carried out through one or more of the following authorised channels:
@@ -69,13 +57,9 @@ Official communication with GSTN may be carried out through one or more of the f
 - Scheduled Meetings
 - Other communication channels designated by GSTN
 
----
-
 # 7. Review
 
 This directory shall be reviewed periodically and updated whenever there is a change in authorised personnel or GSTN communication details.
-
----
 
 # Reference Documents
 
@@ -83,12 +67,6 @@ This directory shall be reviewed periodically and updated whenever there is a ch
 - SOP-001 – ASP Onboarding Procedure
 - SOP-005 – Incident Response Procedure
 
----
-
 ## Standard Statement
 
 This directory defines the authorised communication contacts responsible for operational, technical and regulatory coordination between Blowbits Solutions LLP and GSTN. It shall be used as the primary reference for routine communications and external coordination with GSTN.
-
----
-
-*End of GSTN Communication & SPOC Directory*

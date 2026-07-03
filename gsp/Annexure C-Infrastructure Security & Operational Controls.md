@@ -1,20 +1,16 @@
-# BLOWBITS SOLUTIONS LLP
-
-# ANNEXURE C
-
-# INFRASTRUCTURE SECURITY & OPERATIONAL CONTROLS
+---
+title: ANNEXURE C - INFRASTRUCTURE SECURITY & OPERATIONAL CONTROLS
+company: Blowbits Solutions LLP
+classification: Internal
+---
 
 **Prepared for:** GSTN GSP Security Assessment
-
----
 
 # 1. Purpose
 
 This annexure describes the infrastructure security framework and operational controls implemented to support the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 The objective of these controls is to provide a secure production environment, protect infrastructure from unauthorised access, maintain service availability and support reliable platform operations.
-
----
 
 # 2. Infrastructure Overview
 
@@ -46,8 +42,6 @@ Logical architecture, identity management, API security, cryptographic controls,
       Monitoring & Administration
 ```
 
----
-
 # 3. Network Security
 
 Network security controls regulate communication between authorised users, the GSP platform and supporting infrastructure.
@@ -64,8 +58,6 @@ Infrastructure components are logically separated according to their operational
 
 Communication between infrastructure segments is controlled in accordance with operational and security requirements.
 
----
-
 # 4. Host Security
 
 Production systems are maintained using secure baseline configurations designed to reduce operational risk.
@@ -79,8 +71,6 @@ Production systems are configured to minimise the operational footprint by restr
 Administrative access to production infrastructure is restricted to authorised personnel through controlled administrative processes.
 
 Administrative activities are performed using secure management mechanisms and are subject to administrative oversight.
-
----
 
 # 5. Platform Monitoring
 
@@ -98,8 +88,6 @@ The infrastructure incorporates redundancy features intended to mitigate service
 
 Where required, individual infrastructure components may be isolated for investigation without affecting the overall infrastructure security framework.
 
----
-
 # 6. Infrastructure Principles
 
 The infrastructure security framework is based on the following principles.
@@ -110,8 +98,6 @@ The infrastructure security framework is based on the following principles.
 - Administrative access is restricted to authorised personnel.
 - Infrastructure health is continuously monitored.
 - Operational controls support reliable service delivery.
-
----
 
 # 7. Infrastructure Control Characteristics
 
@@ -124,11 +110,8 @@ The infrastructure security framework is based on the following principles.
 | Infrastructure Monitoring | Infrastructure health and operational status are continuously monitored. |
 | Infrastructure Resilience | Operational controls support reliable and resilient service delivery. |
 
----
-
 ## Document Relationship
 
 This annexure defines the infrastructure security and operational control framework of the Blowbits GSP platform.
 
 Logical architecture, identity management, API security, cryptographic controls, data protection, logging, backup, business continuity and governance processes are documented separately within the relevant annexures and supporting operational documents.
-

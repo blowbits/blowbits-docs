@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# SECURITY INCIDENT REPORTING & ESCALATION PLAN
-
-**Classification:** Internal
-
+---
+title: SECURITY INCIDENT REPORTING & ESCALATION PLAN
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,13 +10,9 @@ This document defines the reporting, communication and escalation process for in
 
 It also identifies the authorised internal and external communication contacts responsible for incident reporting and coordination.
 
----
-
 # 2. Scope
 
 This plan applies to all actual or suspected information security incidents that may affect the confidentiality, integrity or availability of the GSP platform, taxpayer information, supporting infrastructure or services provided to GSTN.
-
----
 
 # 3. Incident Reporting Objectives
 
@@ -28,8 +22,6 @@ The objectives of this plan are to:
 - Support prompt containment, investigation and recovery.
 - Fulfil applicable regulatory and contractual reporting obligations.
 - Maintain records of incident handling and closure.
-
----
 
 # 4. Incident Reporting & Escalation Process
 
@@ -46,8 +38,6 @@ Upon identification of a suspected or confirmed information security incident, t
 9. Implement corrective and preventive actions.
 10. Formally close the incident after management approval.
 
----
-
 # 5. Communication Responsibilities
 
 | Communication Type | Responsible Function |
@@ -60,8 +50,6 @@ Upon identification of a suspected or confirmed information security incident, t
 | CERT-In Communication (where applicable) | CERT-In Reporting SPOC |
 | Customer Communication (where applicable) | Management Representative |
 
----
-
 # 6. Communication Contacts
 
 ## Internal Contacts
@@ -73,8 +61,6 @@ Upon identification of a suspected or confirmed information security incident, t
 | Management Representative | | | |
 | CERT-In Reporting SPOC | | | |
 
----
-
 ## External Contacts
 
 | Organisation | Purpose | Contact Person | Mobile | Email |
@@ -82,8 +68,6 @@ Upon identification of a suspected or confirmed information security incident, t
 | GSTN GSP SPOC | Primary GSP Coordination | | | |
 | GSTN Customer Support | Operational Support | | | |
 | CERT-In | Statutory Cyber Security Incident Reporting (where applicable) | | | |
-
----
 
 # 7. Incident Information
 
@@ -98,8 +82,6 @@ Where applicable, incident reports should include:
 - Corrective and preventive actions.
 - Authorised communication contact.
 
----
-
 # 8. Incident Records
 
 The following records may be maintained, where applicable:
@@ -111,25 +93,15 @@ The following records may be maintained, where applicable:
 - External Communication Record
 - Incident Closure Report
 
----
-
 # 9. Review
 
 This plan shall be reviewed periodically and updated whenever significant operational, organisational or regulatory changes occur.
-
----
 
 # Reference Documents
 
 - POL-012 – Incident Response Policy
 - SOP-005 – Incident Response Procedure
 
----
-
 ## Standard Statement
 
 This document establishes the reporting, escalation and communication framework for information security incidents affecting the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. It identifies the authorised internal and external communication contacts responsible for coordinating operational, regulatory and statutory incident reporting.
-
----
-
-*End of Security Incident Reporting & Escalation Plan*

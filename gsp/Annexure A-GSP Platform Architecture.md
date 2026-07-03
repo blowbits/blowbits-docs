@@ -1,20 +1,16 @@
-# BLOWBITS SOLUTIONS LLP
-
-# ANNEXURE A
-
-# GSP PLATFORM ARCHITECTURE, SECURITY DESIGN & INTEGRATION MODEL
+---
+title: ANNEXURE A - GSP PLATFORM ARCHITECTURE, SECURITY DESIGN & INTEGRATION MODEL
+company: Blowbits Solutions LLP
+classification: Internal
+---
 
 **Prepared for:** GSTN GSP Security Assessment
-
----
 
 # 1. Purpose
 
 This annexure describes the logical architecture, integration model, request processing lifecycle and trust boundary design governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 The GSP platform provides a secure integration framework through which authorised consuming applications access the Goods and Services Tax Network (GSTN). The architecture establishes a common processing model to ensure consistent authentication, request validation, secure communication and controlled request processing for all authorised applications.
-
----
 
 # 2. Platform Overview
 
@@ -50,8 +46,6 @@ Operational controls relating to identity management, infrastructure security, m
 ```
 
 All authorised consuming applications access GSTN services exclusively through the Blowbits GSP platform. Direct communication between consuming applications and GSTN is not supported.
-
----
 
 # 3. Trust Boundary Architecture
 
@@ -91,8 +85,6 @@ Provides authentication, request validation, request processing, secure communic
 
 Represents the external GSTN services accessed through the Blowbits GSP platform.
 
----
-
 # 4. Request Processing Lifecycle
 
 Every request processed by the Blowbits GSP platform follows a defined lifecycle before communication with GSTN.
@@ -127,8 +119,6 @@ The platform provides administrative controls to suspend or revoke application c
 
 During authentication, application status is verified before request processing begins. Applications that have been suspended or revoked are prevented from accessing GSP services.
 
----
-
 # 5. Communication Security & Credential Protection
 
 ## 5.1 Credential Protection
@@ -143,8 +133,6 @@ Credentials used for communication with GSTN are protected through server-side s
 
 Communication between the Blowbits GSP platform and GSTN is established through secure communication channels in accordance with GSP connectivity requirements.
 
----
-
 # 6. Architectural Principles
 
 The Blowbits GSP platform is designed around the following principles:
@@ -156,8 +144,6 @@ The Blowbits GSP platform is designed around the following principles:
 - Communication between systems uses secure transport.
 - The platform provides a common authenticated integration framework for authorised applications.
 
----
-
 # 7. Architecture Characteristics
 
 | Characteristic | Description |
@@ -167,6 +153,3 @@ The Blowbits GSP platform is designed around the following principles:
 | Trust Boundary Separation | The architecture separates consuming applications, the GSP platform and GSTN services. |
 | Secure Communication | Communication between systems uses secure transport mechanisms. |
 | Controlled Request Processing | Every request follows a defined processing lifecycle before communication with GSTN. |
-
----
-

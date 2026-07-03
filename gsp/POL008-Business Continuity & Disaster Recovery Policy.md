@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# BUSINESS CONTINUITY & DISASTER RECOVERY POLICY
-
-**Classification:** Internal
-
+---
+title: BUSINESS CONTINUITY & DISASTER RECOVERY POLICY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This policy establishes the business continuity and disaster recovery framework 
 
 The objective of this policy is to support the continued availability of GSP services by establishing structured processes for responding to operational disruptions and restoring critical services within acceptable operational timeframes.
 
----
-
 # 2. Scope
 
 This policy applies to applications, infrastructure, operational processes, personnel and supporting resources associated with the operation of the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 Supporting procedures, technical standards and implementation evidence are maintained separately.
-
----
 
 # 3. Business Continuity Framework
 
@@ -34,8 +28,6 @@ The framework is established to:
 - Protect critical operational information during recovery activities.
 - Support periodic evaluation of recovery readiness.
 
----
-
 # 4. Business Continuity Principles
 
 The GSP platform operates according to the following principles:
@@ -46,8 +38,6 @@ The GSP platform operates according to the following principles:
 - Recovery resources are maintained to support restoration activities.
 - Recovery readiness is periodically reviewed.
 - Business continuity controls are periodically evaluated for continued effectiveness.
-
----
 
 # 5. Continuity Operations
 
@@ -62,20 +52,12 @@ The operational framework includes:
 - Recovery verification.
 - Periodic review of continuity arrangements.
 
----
-
 # 6. Compliance
 
 Compliance with this policy is supported through documented procedures, operational practices, recovery exercises and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
 
----
-
 ## Standard Statement
 
 This policy establishes the business continuity and disaster recovery principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of Business Continuity & Disaster Recovery Policy*

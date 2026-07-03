@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# NETWORK SECURITY POLICY
-
-**Classification:** Internal
-
+---
+title: NETWORK SECURITY POLICY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This policy establishes the network security framework for the Blowbits Solution
 
 The objective of this policy is to protect network infrastructure and communication channels from unauthorized access while supporting secure, reliable and controlled connectivity between applications, infrastructure and external services.
 
----
-
 # 2. Scope
 
 This policy applies to network infrastructure, communication links, security gateways, routing components and network services associated with the operation of the Blowbits Solutions LLP GSP platform.
 
 Supporting procedures, technical standards and implementation evidence are maintained separately.
-
----
 
 # 3. Network Security Framework
 
@@ -34,8 +28,6 @@ The framework is established to:
 - Support secure communication between interconnected systems.
 - Maintain the integrity and availability of network services.
 
----
-
 # 4. Network Security Principles
 
 The GSP platform operates according to the following principles:
@@ -46,8 +38,6 @@ The GSP platform operates according to the following principles:
 - Public-facing services are logically separated from internal processing environments.
 - Network activities are monitored to support operational visibility and security.
 - Network security controls are periodically reviewed to maintain their effectiveness.
-
----
 
 # 5. Network Operations
 
@@ -61,20 +51,12 @@ The operational framework includes:
 - Review of network security configurations.
 - Controlled implementation of network changes.
 
----
-
 # 6. Compliance
 
 Compliance with this policy is supported through documented procedures, operational practices, network reviews and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
 
----
-
 ## Standard Statement
 
 This policy establishes the network security principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of Network Security Policy*

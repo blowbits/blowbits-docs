@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# ASP ONBOARDING PROCEDURE
-
-**Classification:** Internal
-
+---
+title: ASP ONBOARDING PROCEDURE
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This Standard Operating Procedure (SOP) defines the process for onboarding Appli
 
 The objective of this procedure is to ensure that ASP access is provisioned through a controlled, secure and consistent process while maintaining the integrity, security and operational stability of the GSP platform and complying with applicable GSTN requirements.
 
----
-
 # 2. Scope
 
 This procedure applies to all ASPs requesting production access to the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 Operational records and supporting evidence generated during the onboarding process are maintained separately.
-
----
 
 # 3. Roles & Responsibilities
 
@@ -31,8 +25,6 @@ Operational records and supporting evidence generated during the onboarding proc
 | Compliance Team | Verify mandatory security and compliance documentation. |
 | Authorised Management | Approve production onboarding. |
 | ASP | Provide required information and comply with applicable GSTN operational and security requirements. |
-
----
 
 # 4. ASP Onboarding Procedure
 
@@ -49,8 +41,6 @@ Required information includes, as applicable:
 - Contact details.
 - Technical integration information.
 
----
-
 ### Step 2 – Technical Evaluation
 
 The proposed integration is reviewed to verify compatibility with the GSP platform.
@@ -62,8 +52,6 @@ The review includes:
 - Authentication requirements.
 - Communication requirements.
 - Production readiness.
-
----
 
 ### Step 3 – Security & Compliance Verification
 
@@ -78,15 +66,11 @@ Before production access is approved, the following shall be verified:
 
 Any identified observations shall be reviewed and resolved before production approval.
 
----
-
 ### Step 4 – Approval
 
 Following successful verification, the onboarding request is reviewed through the established approval process.
 
 Only approved ASPs proceed to provisioning.
-
----
 
 ### Step 5 – Access Provisioning
 
@@ -97,15 +81,11 @@ Following approval:
 - Access permissions are assigned.
 - Required platform configuration is completed.
 
----
-
 ### Step 6 – Production Activation
 
 Production access is enabled after successful completion of all onboarding activities.
 
 Operational records are updated to confirm completion of the onboarding process.
-
----
 
 # 5. ASP Lifecycle Management
 
@@ -119,24 +99,14 @@ Lifecycle activities include:
 - Modification of authorised access.
 - Suspension or revocation of ASP access where required.
 
----
-
 # 6. Documentation
 
 Supporting operational records, system logs and other technical evidence may be maintained, as appropriate, in accordance with operational requirements.
-
----
 
 # 7. Compliance
 
 Compliance with this procedure is supported through documented operational records and implementation evidence maintained in accordance with organisational procedures and applicable GSTN requirements.
 
----
-
 ## Standard Statement
 
 This procedure establishes the operational process for onboarding and managing ASP access to the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures and applicable GSTN requirements.
-
----
-
-*End of SOP-001 – ASP Onboarding Procedure*

@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# INFORMATION SECURITY RISK ASSESSMENT
-
-**Classification:** Internal
-
+---
+title: INFORMATION SECURITY RISK ASSESSMENT
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,13 +10,9 @@ This document identifies the key information security risks associated with the 
 
 The objective is to support effective risk management and ensure the confidentiality, integrity and availability of the GSP platform, taxpayer information and supporting infrastructure.
 
----
-
 # 2. Scope
 
 This assessment applies to the production GSP platform, cloud infrastructure, applications, databases, network components, supporting services and operational processes.
-
----
 
 # 3. Risk Assessment Methodology
 
@@ -34,8 +28,6 @@ Information security risks are identified, assessed and managed through:
 
 Identified risks are evaluated based on their potential business impact and likelihood of occurrence. Appropriate preventive, detective and corrective controls are implemented to reduce identified risks to an acceptable level.
 
----
-
 # 4. Information Security Risk Assessment
 
 | Risk | Potential Impact | Existing Controls | Residual Risk |
@@ -48,8 +40,6 @@ Identified risks are evaluated based on their potential business impact and like
 | Network attacks | Service disruption or unauthorised access | Firewall, reverse proxy, TLS encryption, intrusion prevention and continuous monitoring | Low |
 | Data loss | Loss or corruption of taxpayer information | Automated backups, recovery testing, access controls and monitoring | Low |
 | Third-party service disruption | Temporary interruption of external integrations | Monitoring, failover procedures and incident management process | Low |
-
----
 
 # 5. Risk Treatment
 
@@ -64,8 +54,6 @@ Identified risks are managed through preventive, detective and corrective contro
 - Security awareness and operational procedures.
 - Incident response and corrective action management.
 
----
-
 # 6. Risk Review
 
 Information security risks shall be reviewed:
@@ -76,18 +64,10 @@ Information security risks shall be reviewed:
 - Following Vulnerability Assessment and Penetration Testing (VAPT).
 - Whenever new threats or significant vulnerabilities are identified.
 
----
-
 # 7. Review
 
 This document shall be reviewed annually or whenever significant operational, organisational or regulatory changes occur.
 
----
-
 ## Standard Statement
 
 Blowbits Solutions LLP maintains an ongoing information security risk assessment process to identify, evaluate and manage risks affecting the GST Suvidha Provider (GSP) platform. Appropriate administrative, technical and operational controls are implemented to reduce identified risks to an acceptable level and are reviewed periodically to ensure their continued effectiveness.
-
----
-
-*End of Information Security Risk Assessment*

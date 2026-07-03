@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# CHANGE MANAGEMENT POLICY
-
-**Classification:** Internal
-
+---
+title: CHANGE MANAGEMENT POLICY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This policy establishes the change management framework for the Blowbits Solutio
 
 The objective of this policy is to ensure that changes to applications, infrastructure, configurations and operational processes are planned, reviewed, approved and implemented in a controlled manner to minimise operational and security risks.
 
----
-
 # 2. Scope
 
 This policy applies to application software, infrastructure components, system configurations, security controls and operational processes associated with the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 Supporting procedures, technical standards and implementation evidence are maintained separately.
-
----
 
 # 3. Change Management Framework
 
@@ -34,8 +28,6 @@ The framework is established to:
 - Minimise disruption to production services.
 - Maintain records of implemented changes.
 
----
-
 # 4. Change Management Principles
 
 The GSP platform operates according to the following principles:
@@ -46,8 +38,6 @@ The GSP platform operates according to the following principles:
 - Changes are validated before production deployment.
 - Change activities are documented and retained.
 - Significant changes are reviewed following implementation where appropriate.
-
----
 
 # 5. Change Management Process
 
@@ -62,20 +52,12 @@ The operational framework includes:
 - Validation and deployment.
 - Documentation and closure.
 
----
-
 # 6. Compliance
 
 Compliance with this policy is supported through documented procedures, operational practices, change records and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
 
----
-
 ## Standard Statement
 
 This policy establishes the change management principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of Change Management Policy*

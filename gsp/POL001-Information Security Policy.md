@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# INFORMATION SECURITY POLICY
-
-**Classification:** Internal
-
+---
+title: INFORMATION SECURITY POLICY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This policy establishes the information security governance framework for the Bl
 
 The objective of this policy is to protect information assets supporting GSP services through appropriate administrative, operational and technical controls, while maintaining the confidentiality, integrity and availability of information throughout its operational lifecycle.
 
----
-
 # 2. Scope
 
 This policy applies to all applications, infrastructure, operational processes, personnel and information assets associated with the delivery, operation and support of the Blowbits Solutions LLP GSP platform.
 
 Supporting procedures, technical standards and implementation evidence are maintained separately.
-
----
 
 # 3. Information Security Framework
 
@@ -35,8 +29,6 @@ The framework is established to:
 - Support compliance with applicable regulatory, contractual and organisational requirements.
 - Promote continual improvement of information security controls.
 
----
-
 # 4. Information Security Principles
 
 The GSP platform operates according to the following principles:
@@ -48,8 +40,6 @@ The GSP platform operates according to the following principles:
 - Security events are managed through established operational procedures.
 - Information security controls are periodically reviewed to support their continued effectiveness.
 
----
-
 # 5. Governance
 
 Information security responsibilities are assigned through defined organisational roles and operational processes.
@@ -58,20 +48,12 @@ Management provides oversight of the information security framework, while perso
 
 Governance activities are supported by operational records, assessments and implementation evidence maintained in accordance with organisational procedures.
 
----
-
 # 6. Compliance
 
 Compliance with this policy is supported through documented procedures, operational practices, security assessments and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
 
----
-
 ## Standard Statement
 
 This policy establishes the information security principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of Information Security Policy*

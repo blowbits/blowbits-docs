@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# BACKUP & RECOVERY PROCEDURE
-
-**Classification:** Internal
-
+---
+title: BACKUP & RECOVERY PROCEDURE
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This Standard Operating Procedure (SOP) defines the process for performing backu
 
 The objective of this procedure is to ensure that platform components and operational information required to restore GSP services are protected and recoverable following operational disruptions.
 
----
-
 # 2. Scope
 
 This procedure applies to production systems, application components, infrastructure configurations and operational information supporting the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
 Operational records and supporting evidence generated during backup and recovery activities are maintained separately.
-
----
 
 # 3. Roles & Responsibilities
 
@@ -29,8 +23,6 @@ Operational records and supporting evidence generated during backup and recovery
 | System Administrator | Execute backup and recovery activities. |
 | Technical Team | Verify backup integrity and recovery readiness. |
 | Authorised Management | Review recovery activities where required. |
-
----
 
 # 4. Backup & Recovery Procedure
 
@@ -45,8 +37,6 @@ The planning process includes:
 - Backup schedule.
 - Storage location.
 
----
-
 ### Step 2 – Backup Execution
 
 Backup activities shall be performed through approved operational processes.
@@ -58,15 +48,11 @@ The procedure includes:
 - Protection of backup information.
 - Recording of backup activities.
 
----
-
 ### Step 3 – Backup Protection
 
 Backup information shall be stored separately from the production environment and protected through appropriate security controls.
 
 Access to backup information shall be restricted to authorised personnel.
-
----
 
 ### Step 4 – Recovery Verification
 
@@ -78,8 +64,6 @@ Verification activities include:
 - Validation of recovered information.
 - Confirmation of recovery readiness.
 
----
-
 ### Step 5 – Recovery Activities
 
 Where recovery is required:
@@ -89,24 +73,14 @@ Where recovery is required:
 - Operational verification shall be completed.
 - Recovery records shall be updated.
 
----
-
 # 5. Documentation
 
 Supporting operational records, system logs and other technical evidence may be maintained, as appropriate, in accordance with operational requirements.
-
----
 
 # 6. Compliance
 
 Compliance with this procedure is supported through documented operational records and implementation evidence maintained in accordance with organisational procedures.
 
----
-
 ## Standard Statement
 
 This procedure establishes the operational process for backup and recovery activities supporting the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of SOP-004 – Backup & Recovery Procedure*

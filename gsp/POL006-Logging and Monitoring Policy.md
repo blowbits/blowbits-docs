@@ -1,9 +1,7 @@
-# BLOWBITS SOLUTIONS LLP
-
-# LOGGING & MONITORING POLICY
-
-**Classification:** Internal
-
+---
+title: LOGGING & MONITORING POLICY
+company: Blowbits Solutions LLP
+classification: Internal
 ---
 
 # 1. Purpose
@@ -12,15 +10,11 @@ This policy establishes the logging and monitoring framework for the Blowbits So
 
 The objective of this policy is to support operational visibility, security monitoring and accountability through the collection, protection and review of relevant system and operational events.
 
----
-
 # 2. Scope
 
 This policy applies to applications, infrastructure components, network devices, operating environments and operational activities associated with the Blowbits Solutions LLP GSP platform.
 
 Supporting procedures, technical standards and implementation evidence are maintained separately.
-
----
 
 # 3. Logging & Monitoring Framework
 
@@ -34,8 +28,6 @@ The framework is established to:
 - Maintain accountability for administrative activities.
 - Support audit and compliance requirements.
 
----
-
 # 4. Logging & Monitoring Principles
 
 The GSP platform operates according to the following principles:
@@ -46,8 +38,6 @@ The GSP platform operates according to the following principles:
 - Log information is protected against unauthorized modification or deletion.
 - Monitoring information supports operational decision-making and incident response.
 - Logging and monitoring controls are periodically reviewed.
-
----
 
 # 5. Operational Monitoring
 
@@ -61,20 +51,12 @@ The operational framework includes:
 - Protection of operational log information.
 - Investigation of significant operational events.
 
----
-
 # 6. Compliance
 
 Compliance with this policy is supported through documented procedures, operational practices, monitoring activities and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
 
----
-
 ## Standard Statement
 
 This policy establishes the logging and monitoring principles governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform. Supporting procedures, operational records, configuration evidence and implementation artefacts are maintained separately in accordance with organisational procedures.
-
----
-
-*End of Logging & Monitoring Policy*
