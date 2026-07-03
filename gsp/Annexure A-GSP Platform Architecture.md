@@ -27,22 +27,22 @@ Operational controls relating to identity management, infrastructure security, m
 ## 2.2 GSP Service Interaction Model
 
 ```text
-                  +----------------------+
-                  |     GSTN Services    |
-                  +----------------------+
-                             ▲
-                             │
-                   Secure Communication
-                             │
-                  +----------------------+
-                  |  Blowbits GSP APIs   |
-                  |     & Services       |
-                  +----------------------+
-                       ▲            ▲
-                       │            │
-               +---------------+  +------------------+
-               |   Internal App   |  | Authorised ASPs |
-               +---------------+  +------------------+
+          +----------------------+
+          |     GSTN Services    |
+          +----------------------+
+                     ▲
+                     │
+           Secure Communication
+                     │
+          +----------------------+
+          |  Blowbits GSP APIs   |
+          |     & Services       |
+          +----------------------+
+               ▲            ▲
+               │            │
+       +---------------+  +------------------+
+       |   Internal App   |  Authorised ASPs |
+       +---------------+  +------------------+
 ```
 
 All authorised consuming applications access GSTN services exclusively through the Blowbits GSP platform. Direct communication between consuming applications and GSTN is not supported.
@@ -54,7 +54,7 @@ The platform separates participating systems into distinct trust boundaries. App
 ```text
 +-----------------------------------------+
 |       Consuming Applications            |
-|     (Internal App / Authorised ASPs)        |
+|     (Internal App / Authorised ASPs)    |
 +-----------------------------------------+
                   │
                   │ Secure Transport
@@ -146,10 +146,10 @@ The Blowbits GSP platform is designed around the following principles:
 
 # 7. Architecture Characteristics
 
-| Characteristic | Description |
-|---------------|-------------|
-| Single Integration Platform | All authorised applications access GSTN through a common GSP platform. |
-| Authenticated Request Processing | Every request is authenticated before processing. |
-| Trust Boundary Separation | The architecture separates consuming applications, the GSP platform and GSTN services. |
-| Secure Communication | Communication between systems uses secure transport mechanisms. |
-| Controlled Request Processing | Every request follows a defined processing lifecycle before communication with GSTN. |
+| Characteristic                   | Description                                                                            |
+| -------------------------------- | -------------------------------------------------------------------------------------- |
+| Single Integration Platform      | All authorised applications access GSTN through a common GSP platform.                 |
+| Authenticated Request Processing | Every request is authenticated before processing.                                      |
+| Trust Boundary Separation        | The architecture separates consuming applications, the GSP platform and GSTN services. |
+| Secure Communication             | Communication between systems uses secure transport mechanisms.                        |
+| Controlled Request Processing    | Every request follows a defined processing lifecycle before communication with GSTN.   |

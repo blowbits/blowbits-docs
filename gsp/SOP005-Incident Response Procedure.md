@@ -18,27 +18,27 @@ Operational records and supporting evidence generated during incident management
 
 # 3. Roles & Responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| All Personnel | Report suspected security incidents promptly. |
-| Technical Team | Investigate, contain and remediate security incidents. |
-| System Administrator | Support technical recovery activities. |
-| Compliance Team | Coordinate regulatory notifications where applicable. |
+| Role                  | Responsibility                                                   |
+| --------------------- | ---------------------------------------------------------------- |
+| All Personnel         | Report suspected security incidents promptly.                    |
+| Technical Team        | Investigate, contain and remediate security incidents.           |
+| System Administrator  | Support technical recovery activities.                           |
+| Compliance Team       | Coordinate regulatory notifications where applicable.            |
 | Authorised Management | Review significant incidents and approve closure where required. |
 
 # 4. Incident Response Procedure
 
-### Step 1 – Incident Identification
+## Step 1 – Incident Identification
 
 A suspected information security incident shall be identified through monitoring activities, operational observations or reports received from internal or external parties.
 
-### Step 2 – Incident Reporting
+## Step 2 – Incident Reporting
 
 The identified incident shall be reported through the established incident reporting process.
 
 Where required, applicable regulatory or contractual reporting obligations shall be followed.
 
-### Step 3 – Assessment & Classification
+## Step 3 – Assessment & Classification
 
 The incident shall be assessed to determine:
 
@@ -48,7 +48,7 @@ The incident shall be assessed to determine:
 - Security impact.
 - Priority for response.
 
-### Step 4 – Containment
+## Step 4 – Containment
 
 Appropriate containment measures shall be implemented to minimise further impact.
 
@@ -59,7 +59,7 @@ Containment activities may include:
 - Disabling compromised accounts.
 - Blocking malicious activity.
 
-### Step 5 – Recovery
+## Step 5 – Recovery
 
 Recovery activities shall be performed using approved operational procedures.
 
@@ -70,7 +70,7 @@ Activities may include:
 - Confirming operational stability.
 - Monitoring post-recovery operations.
 
-### Step 6 – Incident Closure
+## Step 6 – Incident Closure
 
 Following recovery:
 

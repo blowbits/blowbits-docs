@@ -101,14 +101,14 @@ The infrastructure security framework is based on the following principles.
 
 # 7. Infrastructure Control Characteristics
 
-| Control Characteristic | Description |
-|------------------------|-------------|
-| Network Protection | Network communication is restricted to authorised pathways. |
+| Control Characteristic      | Description                                                                          |
+| --------------------------- | ------------------------------------------------------------------------------------ |
+| Network Protection          | Network communication is restricted to authorised pathways.                          |
 | Infrastructure Segmentation | Infrastructure components are logically separated according to operational function. |
-| Secure System Configuration | Production systems operate using approved baseline configurations. |
-| Administrative Control | Administrative access is restricted and controlled. |
-| Infrastructure Monitoring | Infrastructure health and operational status are continuously monitored. |
-| Infrastructure Resilience | Operational controls support reliable and resilient service delivery. |
+| Secure System Configuration | Production systems operate using approved baseline configurations.                   |
+| Administrative Control      | Administrative access is restricted and controlled.                                  |
+| Infrastructure Monitoring   | Infrastructure health and operational status are continuously monitored.             |
+| Infrastructure Resilience   | Operational controls support reliable and resilient service delivery.                |
 
 ## Document Relationship
 

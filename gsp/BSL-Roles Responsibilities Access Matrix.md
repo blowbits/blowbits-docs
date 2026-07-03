@@ -16,11 +16,11 @@ This document applies to personnel responsible for the administration, operation
 
 # 3. Roles, Responsibilities & Access Matrix
 
-| Role | Assigned Person / Designation | Key Responsibilities | Authorised Access |
-|------|-------------------------------|----------------------|-------------------|
-| **GSP SPOC** | __________________________ | Primary liaison with GSTN, ASP coordination, regulatory communication, production approvals and external security incident communication. | GSP management portal and authorised communication channels. |
-| **Technical & Security SPOC** | __________________________ | Production deployment, application administration, infrastructure management, security monitoring, backup verification, vulnerability management, incident investigation, recovery and operational support. | Administrative access to production infrastructure, applications and security management systems. |
-| **Management Representative** | __________________________ | Governance oversight, policy approval, major operational decisions, security incident oversight and management approvals. | Management dashboards, reports and approval functions. |
+| Role                          | Assigned Person / Designation | Key Responsibilities                                                                                                                                                                                        | Authorised Access                                                                                 |
+| ----------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **GSP SPOC**                  | ************\_\_************  | Primary liaison with GSTN, ASP coordination, regulatory communication, production approvals and external security incident communication.                                                                   | GSP management portal and authorised communication channels.                                      |
+| **Technical & Security SPOC** | ************\_\_************  | Production deployment, application administration, infrastructure management, security monitoring, backup verification, vulnerability management, incident investigation, recovery and operational support. | Administrative access to production infrastructure, applications and security management systems. |
+| **Management Representative** | ************\_\_************  | Governance oversight, policy approval, major operational decisions, security incident oversight and management approvals.                                                                                   | Management dashboards, reports and approval functions.                                            |
 
 # 4. Access Management Principles
 

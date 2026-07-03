@@ -30,16 +30,16 @@ Identified risks are evaluated based on their potential business impact and like
 
 # 4. Information Security Risk Assessment
 
-| Risk | Potential Impact | Existing Controls | Residual Risk |
-|------|------------------|-------------------|---------------|
-| Unauthorised access to production systems | Compromise of taxpayer information or critical services | Role-based access control, least privilege, MFA, periodic access review | Low |
-| Application vulnerabilities | Data compromise or service interruption | Secure development practices, VAPT, patch management and security reviews | Low |
-| Cloud infrastructure failure | Service disruption | AWS high availability, monitoring, backup and disaster recovery procedures | Low |
-| Malware or ransomware | Data loss or operational disruption | Endpoint protection, backup strategy, monitoring and restricted administrative access | Low |
-| Insider misuse | Unauthorised system changes or data access | Role-based access, audit logging, management oversight and periodic access review | Low |
-| Network attacks | Service disruption or unauthorised access | Firewall, reverse proxy, TLS encryption, intrusion prevention and continuous monitoring | Low |
-| Data loss | Loss or corruption of taxpayer information | Automated backups, recovery testing, access controls and monitoring | Low |
-| Third-party service disruption | Temporary interruption of external integrations | Monitoring, failover procedures and incident management process | Low |
+| Risk                                      | Potential Impact                                        | Existing Controls                                                                       | Residual Risk |
+| ----------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------- |
+| Unauthorised access to production systems | Compromise of taxpayer information or critical services | Role-based access control, least privilege, MFA, periodic access review                 | Low           |
+| Application vulnerabilities               | Data compromise or service interruption                 | Secure development practices, VAPT, patch management and security reviews               | Low           |
+| Cloud infrastructure failure              | Service disruption                                      | AWS high availability, monitoring, backup and disaster recovery procedures              | Low           |
+| Malware or ransomware                     | Data loss or operational disruption                     | Endpoint protection, backup strategy, monitoring and restricted administrative access   | Low           |
+| Insider misuse                            | Unauthorised system changes or data access              | Role-based access, audit logging, management oversight and periodic access review       | Low           |
+| Network attacks                           | Service disruption or unauthorised access               | Firewall, reverse proxy, TLS encryption, intrusion prevention and continuous monitoring | Low           |
+| Data loss                                 | Loss or corruption of taxpayer information              | Automated backups, recovery testing, access controls and monitoring                     | Low           |
+| Third-party service disruption            | Temporary interruption of external integrations         | Monitoring, failover procedures and incident management process                         | Low           |
 
 # 5. Risk Treatment
 

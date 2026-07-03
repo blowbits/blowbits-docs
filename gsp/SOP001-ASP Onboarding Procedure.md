@@ -18,19 +18,19 @@ Operational records and supporting evidence generated during the onboarding proc
 
 # 3. Roles & Responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| Technical Team | Perform technical evaluation and integration validation. |
-| System Administrator | Provision ASP identity, credentials and access permissions. |
-| Compliance Team | Verify mandatory security and compliance documentation. |
-| Authorised Management | Approve production onboarding. |
-| ASP | Provide required information and comply with applicable GSTN operational and security requirements. |
+| Role                  | Responsibility                                                                                      |
+| --------------------- | --------------------------------------------------------------------------------------------------- |
+| Technical Team        | Perform technical evaluation and integration validation.                                            |
+| System Administrator  | Provision ASP identity, credentials and access permissions.                                         |
+| Compliance Team       | Verify mandatory security and compliance documentation.                                             |
+| Authorised Management | Approve production onboarding.                                                                      |
+| ASP                   | Provide required information and comply with applicable GSTN operational and security requirements. |
 
 # 4. ASP Onboarding Procedure
 
 The onboarding process shall be completed in the following sequence.
 
-### Step 1 – ASP Registration Request
+## Step 1 – ASP Registration Request
 
 The ASP submits an onboarding request together with the information required for technical evaluation.
 
@@ -41,7 +41,7 @@ Required information includes, as applicable:
 - Contact details.
 - Technical integration information.
 
-### Step 2 – Technical Evaluation
+## Step 2 – Technical Evaluation
 
 The proposed integration is reviewed to verify compatibility with the GSP platform.
 
@@ -53,7 +53,7 @@ The review includes:
 - Communication requirements.
 - Production readiness.
 
-### Step 3 – Security & Compliance Verification
+## Step 3 – Security & Compliance Verification
 
 Before production access is approved, the following shall be verified:
 
@@ -66,13 +66,13 @@ Before production access is approved, the following shall be verified:
 
 Any identified observations shall be reviewed and resolved before production approval.
 
-### Step 4 – Approval
+## Step 4 – Approval
 
 Following successful verification, the onboarding request is reviewed through the established approval process.
 
 Only approved ASPs proceed to provisioning.
 
-### Step 5 – Access Provisioning
+## Step 5 – Access Provisioning
 
 Following approval:
 
@@ -81,7 +81,7 @@ Following approval:
 - Access permissions are assigned.
 - Required platform configuration is completed.
 
-### Step 6 – Production Activation
+## Step 6 – Production Activation
 
 Production access is enabled after successful completion of all onboarding activities.
 

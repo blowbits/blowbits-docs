@@ -10,23 +10,23 @@ This document defines the designated communication contacts responsible for oper
 
 # 2. Internal Communication Contacts
 
-| Function | Primary Contact | Designation | Mobile | Email | Alternate Contact |
-|----------|-----------------|-------------|---------|-------|-------------------|
-| GSP SPOC | | | | | |
-| Technical Lead | | | | | |
-| Information Security | | | | | |
-| Compliance Officer | | | | | |
-| System Administrator | | | | | |
-| Management | | | | | |
+| Function             | Primary Contact | Designation | Mobile | Email | Alternate Contact |
+| -------------------- | --------------- | ----------- | ------ | ----- | ----------------- |
+| GSP SPOC             |                 |             |        |       |                   |
+| Technical Lead       |                 |             |        |       |                   |
+| Information Security |                 |             |        |       |                   |
+| Compliance Officer   |                 |             |        |       |                   |
+| System Administrator |                 |             |        |       |                   |
+| Management           |                 |             |        |       |                   |
 
 # 3. External Communication Contacts
 
-| Organisation | Purpose | Contact Person | Mobile | Email |
-|--------------|---------|----------------|---------|-------|
-| GSTN | GSP Operational Support | | | |
-| GSTN | Security Incident Reporting | | | |
-| CERT-In | Cyber Security Incident Reporting | | | |
-| Cloud Service Provider | Infrastructure Support | | | |
+| Organisation           | Purpose                           | Contact Person | Mobile | Email |
+| ---------------------- | --------------------------------- | -------------- | ------ | ----- |
+| GSTN                   | GSP Operational Support           |                |        |       |
+| GSTN                   | Security Incident Reporting       |                |        |       |
+| CERT-In                | Cyber Security Incident Reporting |                |        |       |
+| Cloud Service Provider | Infrastructure Support            |                |        |       |
 
 # 4. Communication Sequence
 

@@ -18,16 +18,16 @@ Operational records and supporting evidence generated during change activities a
 
 # 3. Roles & Responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| Change Requestor | Initiates and documents the proposed change. |
-| Technical Team | Performs impact assessment, implementation and validation. |
-| System Administrator | Executes approved infrastructure or configuration changes. |
-| Authorised Management | Reviews and approves changes where required. |
+| Role                  | Responsibility                                             |
+| --------------------- | ---------------------------------------------------------- |
+| Change Requestor      | Initiates and documents the proposed change.               |
+| Technical Team        | Performs impact assessment, implementation and validation. |
+| System Administrator  | Executes approved infrastructure or configuration changes. |
+| Authorised Management | Reviews and approves changes where required.               |
 
 # 4. Change Management Procedure
 
-### Step 1 – Change Request
+## Step 1 – Change Request
 
 The proposed change shall be documented through the prescribed change request process.
 
@@ -38,7 +38,7 @@ The request shall include:
 - Systems affected.
 - Expected implementation schedule.
 
-### Step 2 – Impact Assessment
+## Step 2 – Impact Assessment
 
 The proposed change shall be evaluated to determine its potential impact on:
 
@@ -48,13 +48,13 @@ The proposed change shall be evaluated to determine its potential impact on:
 - Operational processes.
 - Regulatory or contractual obligations.
 
-### Step 3 – Review & Approval
+## Step 3 – Review & Approval
 
 The change request shall be reviewed and approved in accordance with organisational procedures before implementation.
 
 Emergency changes shall follow the established emergency change process.
 
-### Step 4 – Implementation
+## Step 4 – Implementation
 
 Approved changes shall be implemented using controlled operational procedures.
 
@@ -65,7 +65,7 @@ Implementation activities may include:
 - Infrastructure modifications.
 - Security configuration changes.
 
-### Step 5 – Validation
+## Step 5 – Validation
 
 Following implementation, the change shall be validated to confirm:
 
@@ -76,7 +76,7 @@ Following implementation, the change shall be validated to confirm:
 
 Where necessary, rollback procedures shall be initiated.
 
-### Step 6 – Closure
+## Step 6 – Closure
 
 Following successful validation:
 

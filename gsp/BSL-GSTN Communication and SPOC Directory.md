@@ -25,29 +25,29 @@ This directory applies to all routine communications with GSTN relating to:
 
 # 3. Internal Contacts
 
-| Function | Contact Person | Mobile | Email |
-|----------|----------------|---------|-------|
-| GSP SPOC | | | |
-| Technical & Security SPOC | | | |
-| Management Representative | | | |
+| Function                  | Contact Person | Mobile | Email |
+| ------------------------- | -------------- | ------ | ----- |
+| GSP SPOC                  |                |        |       |
+| Technical & Security SPOC |                |        |       |
+| Management Representative |                |        |       |
 
 # 4. GSTN Contacts
 
-| Organisation | Purpose | Contact Person | Mobile | Email |
-|--------------|---------|----------------|---------|-------|
-| GSTN GSP SPOC | Primary GSP Coordination | | | |
-| GSTN Customer Support | Operational Support | | | |
+| Organisation          | Purpose                  | Contact Person | Mobile | Email |
+| --------------------- | ------------------------ | -------------- | ------ | ----- |
+| GSTN GSP SPOC         | Primary GSP Coordination |                |        |       |
+| GSTN Customer Support | Operational Support      |                |        |       |
 
 # 5. Communication Responsibilities
 
-| Communication Type | Responsible Function |
-|--------------------|----------------------|
-| Routine Operational Communication | GSP SPOC |
-| Technical Coordination | Technical & Security SPOC |
-| Production Support | Technical & Security SPOC |
-| Security Incident Communication | GSP SPOC |
-| Regulatory Communication | GSP SPOC |
-| Management Escalation | Management Representative |
+| Communication Type                | Responsible Function      |
+| --------------------------------- | ------------------------- |
+| Routine Operational Communication | GSP SPOC                  |
+| Technical Coordination            | Technical & Security SPOC |
+| Production Support                | Technical & Security SPOC |
+| Security Incident Communication   | GSP SPOC                  |
+| Regulatory Communication          | GSP SPOC                  |
+| Management Escalation             | Management Representative |
 
 # 6. Communication Channels
 

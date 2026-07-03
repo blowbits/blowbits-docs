@@ -91,16 +91,16 @@ The identity and API security framework is based on the following principles.
 
 # 7. Security Characteristics
 
-| Characteristic | Description |
-|---------------|-------------|
-| Unique Application Identity | Each authorised application is assigned an independent identity. |
+| Characteristic                | Description                                                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Unique Application Identity   | Each authorised application is assigned an independent identity.                                            |
 | Controlled Identity Lifecycle | Application identities are provisioned, maintained and revoked through controlled administrative processes. |
-| Authentication | Every request is authenticated before processing. |
-| Request Validation | Invalid or unauthorised requests are rejected before processing. |
-| Credential Protection | Sensitive credentials are protected through encryption and controlled access mechanisms. |
-| Secure Communication | Communication between participating systems uses secure transport mechanisms. |
+| Authentication                | Every request is authenticated before processing.                                                           |
+| Request Validation            | Invalid or unauthorised requests are rejected before processing.                                            |
+| Credential Protection         | Sensitive credentials are protected through encryption and controlled access mechanisms.                    |
+| Secure Communication          | Communication between participating systems uses secure transport mechanisms.                               |
 
-### Document Relationship
+## Document Relationship
 
 This annexure defines the identity management and API security framework of the Blowbits GSP platform.
 

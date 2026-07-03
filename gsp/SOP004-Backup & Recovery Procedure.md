@@ -18,15 +18,15 @@ Operational records and supporting evidence generated during backup and recovery
 
 # 3. Roles & Responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| System Administrator | Execute backup and recovery activities. |
-| Technical Team | Verify backup integrity and recovery readiness. |
-| Authorised Management | Review recovery activities where required. |
+| Role                  | Responsibility                                  |
+| --------------------- | ----------------------------------------------- |
+| System Administrator  | Execute backup and recovery activities.         |
+| Technical Team        | Verify backup integrity and recovery readiness. |
+| Authorised Management | Review recovery activities where required.      |
 
 # 4. Backup & Recovery Procedure
 
-### Step 1 – Backup Planning
+## Step 1 – Backup Planning
 
 Backup requirements shall be identified based on operational and recovery requirements.
 
@@ -37,7 +37,7 @@ The planning process includes:
 - Backup schedule.
 - Storage location.
 
-### Step 2 – Backup Execution
+## Step 2 – Backup Execution
 
 Backup activities shall be performed through approved operational processes.
 
@@ -48,13 +48,13 @@ The procedure includes:
 - Protection of backup information.
 - Recording of backup activities.
 
-### Step 3 – Backup Protection
+## Step 3 – Backup Protection
 
 Backup information shall be stored separately from the production environment and protected through appropriate security controls.
 
 Access to backup information shall be restricted to authorised personnel.
 
-### Step 4 – Recovery Verification
+## Step 4 – Recovery Verification
 
 Recovery capability shall be verified through controlled operational procedures.
 
@@ -64,7 +64,7 @@ Verification activities include:
 - Validation of recovered information.
 - Confirmation of recovery readiness.
 
-### Step 5 – Recovery Activities
+## Step 5 – Recovery Activities
 
 Where recovery is required:
 

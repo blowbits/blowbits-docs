@@ -40,34 +40,34 @@ Upon identification of a suspected or confirmed information security incident, t
 
 # 5. Communication Responsibilities
 
-| Communication Type | Responsible Function |
-|--------------------|----------------------|
-| Incident Detection & Reporting | Technical & Security SPOC |
-| Technical Investigation | Technical & Security SPOC |
-| Containment & Recovery | Technical & Security SPOC |
-| Management Notification | Management Representative |
-| GSTN Communication | GSP SPOC |
-| CERT-In Communication (where applicable) | CERT-In Reporting SPOC |
+| Communication Type                        | Responsible Function      |
+| ----------------------------------------- | ------------------------- |
+| Incident Detection & Reporting            | Technical & Security SPOC |
+| Technical Investigation                   | Technical & Security SPOC |
+| Containment & Recovery                    | Technical & Security SPOC |
+| Management Notification                   | Management Representative |
+| GSTN Communication                        | GSP SPOC                  |
+| CERT-In Communication (where applicable)  | CERT-In Reporting SPOC    |
 | Customer Communication (where applicable) | Management Representative |
 
 # 6. Communication Contacts
 
 ## Internal Contacts
 
-| Function | Contact Person | Mobile | Email |
-|----------|----------------|---------|-------|
-| GSP SPOC | | | |
-| Technical & Security SPOC | | | |
-| Management Representative | | | |
-| CERT-In Reporting SPOC | | | |
+| Function                  | Contact Person | Mobile | Email |
+| ------------------------- | -------------- | ------ | ----- |
+| GSP SPOC                  |                |        |       |
+| Technical & Security SPOC |                |        |       |
+| Management Representative |                |        |       |
+| CERT-In Reporting SPOC    |                |        |       |
 
 ## External Contacts
 
-| Organisation | Purpose | Contact Person | Mobile | Email |
-|--------------|---------|----------------|---------|-------|
-| GSTN GSP SPOC | Primary GSP Coordination | | | |
-| GSTN Customer Support | Operational Support | | | |
-| CERT-In | Statutory Cyber Security Incident Reporting (where applicable) | | | |
+| Organisation          | Purpose                                                        | Contact Person | Mobile | Email |
+| --------------------- | -------------------------------------------------------------- | -------------- | ------ | ----- |
+| GSTN GSP SPOC         | Primary GSP Coordination                                       |                |        |       |
+| GSTN Customer Support | Operational Support                                            |                |        |       |
+| CERT-In               | Statutory Cyber Security Incident Reporting (where applicable) |                |        |       |
 
 # 7. Incident Information
 

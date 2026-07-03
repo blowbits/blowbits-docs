@@ -18,16 +18,16 @@ Operational records and supporting evidence generated during credential lifecycl
 
 # 3. Roles & Responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| System Administrator | Provision, modify and revoke user accounts and credentials. |
-| Authorised Management | Approve access requests where required. |
+| Role                              | Responsibility                                                            |
+| --------------------------------- | ------------------------------------------------------------------------- |
+| System Administrator              | Provision, modify and revoke user accounts and credentials.               |
+| Authorised Management             | Approve access requests where required.                                   |
 | Information Security / Compliance | Review privileged access and compliance with organisational requirements. |
-| User | Protect assigned credentials and comply with security requirements. |
+| User                              | Protect assigned credentials and comply with security requirements.       |
 
 # 4. User & Credential Management Procedure
 
-### Step 1 – Access Request
+## Step 1 – Access Request
 
 Access requests shall be submitted through the prescribed operational process.
 
@@ -38,11 +38,11 @@ The request shall specify:
 - Business justification.
 - Required systems or services.
 
-### Step 2 – Access Approval
+## Step 2 – Access Approval
 
 Access requests shall be reviewed and approved in accordance with organisational procedures before user accounts are created or modified.
 
-### Step 3 – Account Provisioning
+## Step 3 – Account Provisioning
 
 Following approval:
 
@@ -51,7 +51,7 @@ Following approval:
 - Authentication credentials are provisioned.
 - Access is limited according to operational requirements.
 
-### Step 4 – Credential Protection
+## Step 4 – Credential Protection
 
 Authentication credentials shall be protected throughout their lifecycle.
 
@@ -62,7 +62,7 @@ Operational controls include:
 - Protection against unauthorised disclosure.
 - Controlled administrative access to credential stores.
 
-### Step 5 – Access Review
+## Step 5 – Access Review
 
 User access shall be reviewed periodically to verify continued operational need.
 
@@ -72,7 +72,7 @@ Where appropriate:
 - Privileged access may be reviewed.
 - Unnecessary access shall be removed.
 
-### Step 6 – Access Revocation
+## Step 6 – Access Revocation
 
 Access shall be revoked promptly when:
 
