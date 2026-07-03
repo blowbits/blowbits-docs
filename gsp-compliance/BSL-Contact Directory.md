@@ -21,33 +21,33 @@ This directory applies to:
 
 # 3. Internal Role Assignments and Contacts
 
-| Role | Primary Person / Designation | Primary Phone | Primary Email | Alternate Person / Designation | Alternate Phone | Alternate Email | Availability |
-| ---- | ---------------------------- | ------------- | ------------- | ------------------------------ | --------------- | --------------- | ------------ |
-| GSP Coordination Lead | | | | | | | Business hours / emergency escalation |
-| Platform Operations Lead | | | | | | | Operational support and recovery |
-| Information Security Lead | | | | | | | Security incidents and security monitoring |
-| GSP Governance Lead | | | | | | | Governance escalation and approvals |
+| Role                      | Primary Person / Designation | Primary Phone | Primary Email | Alternate Person / Designation | Alternate Phone | Alternate Email | Availability                               |
+| ------------------------- | ---------------------------- | ------------- | ------------- | ------------------------------ | --------------- | --------------- | ------------------------------------------ |
+| GSP Coordination Lead     |                              |               |               |                                |                 |                 | Business hours / emergency escalation      |
+| Platform Operations Lead  |                              |               |               |                                |                 |                 | Operational support and recovery           |
+| Information Security Lead |                              |               |               |                                |                 |                 | Security incidents and security monitoring |
+| GSP Governance Lead       |                              |               |               |                                |                 |                 | Governance escalation and approvals        |
 
 # 4. External Communication Points
 
-| Organisation / Function | Purpose | Contact Person / Channel | Phone | Email / Portal | Availability / Notes |
-| ----------------------- | ------- | ------------------------ | ----- | -------------- | -------------------- |
-| GSTN Coordination Contact | Primary GSP coordination and regulatory communication | | | | As provided by GSTN |
-| CERT-In Reporting Channel | Statutory cyber security incident reporting, where applicable | | | | Use current official reporting channel |
-| Cloud Support Channel | Infrastructure support and escalation | | | | As per support plan |
+| Organisation / Function   | Purpose                                                       | Contact Person / Channel                          | Phone           | Email / Portal           | Availability / Notes                   |
+| ------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | --------------- | ------------------------ | -------------------------------------- |
+| GSTN Coordination Contact | Primary GSP coordination and regulatory communication         | Mr Sachin Gupta                                   | +91-98912-85704 | sachin.gupta@gstn.org.in | As provided by GSTN                    |
+| CERT-In Reporting Channel | Statutory cyber security incident reporting, where applicable |                                                   | +91-11-24368546 | incident@cert-in.org.in  | Use current official reporting channel |
+| Cloud Support Channel     | Infrastructure support and escalation                         | [AWS Support](https://aws.amazon.com/contact-us/) |                 |                          | As per support plan                    |
 
 # 5. Communication Responsibilities
 
-| Communication Type | Responsible Internal Role |
-| ------------------ | ------------------------- |
-| Routine GSTN operational communication | GSP Coordination Lead |
-| GSTN technical coordination | Platform Operations Lead, coordinated through GSP Coordination Lead where required |
-| Production support escalation | Platform Operations Lead |
-| Security incident technical updates | Information Security Lead |
-| GSTN security incident communication | GSP Coordination Lead |
-| CERT-In reporting, where applicable | GSP Coordination Lead with GSP Governance Lead oversight, unless separately assigned |
-| Governance escalation | GSP Governance Lead |
-| Customer or stakeholder communication, where applicable | GSP Governance Lead or authorised delegate |
+| Communication Type                                      | Responsible Internal Role                                                            |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Routine GSTN operational communication                  | GSP Coordination Lead                                                                |
+| GSTN technical coordination                             | Platform Operations Lead, coordinated through GSP Coordination Lead where required   |
+| Production support escalation                           | Platform Operations Lead                                                             |
+| Security incident technical updates                     | Information Security Lead                                                            |
+| GSTN security incident communication                    | GSP Coordination Lead                                                                |
+| CERT-In reporting, where applicable                     | GSP Coordination Lead with GSP Governance Lead oversight, unless separately assigned |
+| Governance escalation                                   | GSP Governance Lead                                                                  |
+| Customer or stakeholder communication, where applicable | GSP Governance Lead or authorised delegate                                           |
 
 # 6. Communication Channels
 
