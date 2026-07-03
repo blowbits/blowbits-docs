@@ -6,42 +6,52 @@ classification: Internal
 
 # 1. Purpose
 
-This document defines the organisational roles, assigned personnel, responsibilities and authorised access for the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
+This document defines the organisational roles, responsibilities, authority and authorised access associated with the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
 
-It ensures that responsibilities are clearly assigned and privileged access is granted only to authorised personnel.
+It provides the role-level accountability model used by policies, procedures and operational records. Current role assignments and contact details are maintained separately in the Contact Directory.
 
 # 2. Scope
 
-This document applies to personnel responsible for the administration, operation, maintenance, security and governance of the GSP platform.
+This document applies to internal roles responsible for the administration, operation, maintenance, security, compliance and governance of the GSP platform.
 
-# 3. Roles, Responsibilities & Access Matrix
+External parties such as GSTN, CERT-In and cloud service providers are not internal Blowbits roles. They are maintained as external communication points in the Contact Directory.
 
-| Role                          | Assigned Person / Designation | Key Responsibilities                                                                                                                                                                                        | Authorised Access                                                                                 |
-| ----------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **GSP SPOC**                  | ************\_\_************  | Primary liaison with GSTN, ASP coordination, regulatory communication, production approvals and external security incident communication.                                                                   | GSP management portal and authorised communication channels.                                      |
-| **Technical & Security SPOC** | ************\_\_************  | Production deployment, application administration, infrastructure management, security monitoring, backup verification, vulnerability management, incident investigation, recovery and operational support. | Administrative access to production infrastructure, applications and security management systems. |
-| **Management Representative** | ************\_\_************  | Governance oversight, policy approval, major operational decisions, security incident oversight and management approvals.                                                                                   | Management dashboards, reports and approval functions.                                            |
+# 3. Internal Roles, Responsibilities & Access Matrix
 
-# 4. Access Management Principles
+| Role | Key Responsibilities | Authority | Authorised Access |
+| ---- | -------------------- | --------- | ----------------- |
+| **GSP Coordination Lead** | Primary liaison with GSTN; ASP coordination; regulatory communication; production coordination; external GSP communication and external security incident communication where applicable. | Coordinate official GSP communications; initiate external coordination through authorised channels; support production and regulatory approvals. | GSP management portal and authorised communication channels. |
+| **Platform Operations Lead** | Production deployment; application administration; infrastructure management; backup verification; recovery execution; platform availability; operational support. | Perform authorised technical administration; initiate operational recovery actions; recommend operational remediation and platform changes. | Administrative access to production infrastructure, applications, deployment systems, monitoring tools and operational records as approved. |
+| **Information Security Lead** | Security monitoring; vulnerability management; security assessment coordination; incident assessment, investigation and containment; security control review; technical security evidence coordination. | Initiate security investigation and containment actions; recommend security remediation; coordinate technical evidence collection for security events. | Access to security logs, monitoring tools, vulnerability records, incident records and security management systems as approved. |
+| **GSP Governance Lead** | Governance oversight; policy approval; privileged access approval; major operational decisions; risk and exception review; security incident oversight and closure approval for significant incidents. | Approve policies, privileged access, significant changes, exceptions, risk acceptance decisions and closure of significant incidents where required. | Management dashboards, reports, approval records and governance evidence. |
+
+# 4. Role Assignment
+
+Current personnel assigned to each internal role are maintained in the Contact Directory.
+
+The same individual may be assigned to multiple roles where required by organisational size and operational practicality. Such assignments shall remain subject to management oversight, access review and documented approval where applicable.
+
+# 5. Access Management Principles
 
 - Access shall be granted based on business responsibilities and the principle of least privilege.
-- Privileged access shall be approved by Management.
+- Privileged access shall be approved by the GSP Governance Lead.
 - Access rights shall be reviewed periodically.
 - Access shall be revoked promptly when no longer required.
 - Shared user accounts shall be avoided except where technically necessary and appropriately controlled.
+- Access and administrative activities shall be logged where supported by the system or service.
 
-# 5. Segregation of Responsibilities
+# 6. Segregation of Responsibilities
 
 Operational responsibilities shall be assigned to minimise conflicts of interest wherever practical.
 
-As Blowbits Solutions LLP operates with a small technical team, an authorised individual may perform multiple operational roles. Management oversight and periodic reviews shall be maintained to ensure accountability and appropriate governance.
+As Blowbits Solutions LLP operates with a small technical team, an authorised individual may perform multiple operational roles. Where complete segregation of duties is not practical, compensating controls shall be applied through GSP Governance Lead approval, activity logging, periodic access reviews, incident and change records, and documented oversight.
 
-# 6. Access Review
+# 7. Access Review
 
 Authorised access shall be reviewed periodically and whenever there is a significant organisational, operational or security change.
 
 Unnecessary or obsolete access shall be removed promptly.
 
-# 7. Review
+# 8. Review
 
-This document shall be reviewed annually or whenever there is a change in organisational responsibilities or assigned personnel.
+This document shall be reviewed annually or whenever there is a change in organisational responsibilities, role definitions or access requirements.
