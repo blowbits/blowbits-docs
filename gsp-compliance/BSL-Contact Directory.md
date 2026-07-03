@@ -21,20 +21,85 @@ This directory applies to:
 
 # 3. Internal Role Assignments and Contacts
 
-| Role                      | Primary Person / Designation | Primary Phone | Primary Email | Alternate Person / Designation | Alternate Phone | Alternate Email | Availability                               |
-| ------------------------- | ---------------------------- | ------------- | ------------- | ------------------------------ | --------------- | --------------- | ------------------------------------------ |
-| GSP Coordination Lead     |                              |               |               |                                |                 |                 | Business hours / emergency escalation      |
-| Platform Operations Lead  |                              |               |               |                                |                 |                 | Operational support and recovery           |
-| Information Security Lead |                              |               |               |                                |                 |                 | Security incidents and security monitoring |
-| GSP Governance Lead       |                              |               |               |                                |                 |                 | Governance escalation and approvals        |
+## 3.1 GSP Coordination Lead
+
+| Field                          | Details                               |
+| ------------------------------ | ------------------------------------- |
+| Primary Person / Designation   |                                       |
+| Primary Phone                  |                                       |
+| Primary Email                  |                                       |
+| Alternate Person / Designation |                                       |
+| Alternate Phone                |                                       |
+| Alternate Email                |                                       |
+| Availability                   | Business hours / emergency escalation |
+
+## 3.2 Platform Operations Lead
+
+| Field                          | Details                          |
+| ------------------------------ | -------------------------------- |
+| Primary Person / Designation   |                                  |
+| Primary Phone                  |                                  |
+| Primary Email                  |                                  |
+| Alternate Person / Designation |                                  |
+| Alternate Phone                |                                  |
+| Alternate Email                |                                  |
+| Availability                   | Operational support and recovery |
+
+## 3.3 Information Security Lead
+
+| Field                          | Details                                    |
+| ------------------------------ | ------------------------------------------ |
+| Primary Person / Designation   |                                            |
+| Primary Phone                  |                                            |
+| Primary Email                  |                                            |
+| Alternate Person / Designation |                                            |
+| Alternate Phone                |                                            |
+| Alternate Email                |                                            |
+| Availability                   | Security incidents and security monitoring |
+
+## 3.4 GSP Governance Lead
+
+| Field                          | Details                             |
+| ------------------------------ | ----------------------------------- |
+| Primary Person / Designation   |                                     |
+| Primary Phone                  |                                     |
+| Primary Email                  |                                     |
+| Alternate Person / Designation |                                     |
+| Alternate Phone                |                                     |
+| Alternate Email                |                                     |
+| Availability                   | Governance escalation and approvals |
 
 # 4. External Communication Points
 
-| Organisation / Function   | Purpose                                                       | Contact Person / Channel                          | Phone           | Email / Portal           | Availability / Notes                   |
-| ------------------------- | ------------------------------------------------------------- | ------------------------------------------------- | --------------- | ------------------------ | -------------------------------------- |
-| GSTN Coordination Contact | Primary GSP coordination and regulatory communication         | Mr Sachin Gupta                                   | +91-98912-85704 | sachin.gupta@gstn.org.in | As provided by GSTN                    |
-| CERT-In Reporting Channel | Statutory cyber security incident reporting, where applicable |                                                   | +91-11-24368546 | incident@cert-in.org.in  | Use current official reporting channel |
-| Cloud Support Channel     | Infrastructure support and escalation                         | [AWS Support](https://aws.amazon.com/contact-us/) |                 |                          | As per support plan                    |
+## 4.1 GSTN Coordination Contact
+
+| Field                    | Details                                               |
+| ------------------------ | ----------------------------------------------------- |
+| Purpose                  | Primary GSP coordination and regulatory communication |
+| Contact Person / Channel | Mr Sachin Gupta                                       |
+| Phone                    | +91-98912-85704                                       |
+| Email / Portal           | sachin.gupta@gstn.org.in                              |
+| Availability / Notes     | As provided by GSTN                                   |
+
+## 4.2 CERT-In Reporting Channel
+
+| Field                    | Details                                                       |
+| ------------------------ | ------------------------------------------------------------- |
+| Purpose                  | Statutory cyber security incident reporting, where applicable |
+| Contact Person / Channel |                                                               |
+| Phone                    | +91-11-24368546                                               |
+| Email / Portal           | incident@cert-in.org.in                                       |
+| Availability / Notes     | Use current official reporting channel                        |
+
+## 4.3 Cloud Support Channel
+
+| Field                    | Details                                                                                |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| Purpose                  | Infrastructure support and escalation                                                  |
+| Contact Person / Channel | [AWS Support](https://aws.amazon.com/contact-us/) (https://aws.amazon.com/contact-us/) |
+| Phone                    |                                                                                        |
+| Email / Portal           |                                                                                        |
+| Availability / Notes     | As per support plan                                                                    |
 
 # 5. Communication Responsibilities
 

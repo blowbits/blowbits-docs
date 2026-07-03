@@ -1,4 +1,7 @@
 {
   "prettier.proseWrap": "preserve",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "markdownlint.config": {
+    "MD034": false
+  }
 }
