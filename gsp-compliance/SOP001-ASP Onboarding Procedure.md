@@ -18,13 +18,15 @@ Operational records and supporting evidence generated during the onboarding proc
 
 # 3. Roles & Responsibilities
 
-| Role                  | Responsibility                                                                                      |
-| --------------------- | --------------------------------------------------------------------------------------------------- |
-| Technical Team        | Perform technical evaluation and integration validation.                                            |
-| System Administrator  | Provision ASP identity, credentials and access permissions.                                         |
-| Compliance Team       | Verify mandatory security and compliance documentation.                                             |
-| Authorised Management | Approve production onboarding.                                                                      |
-| ASP                   | Provide required information and comply with applicable GSTN operational and security requirements. |
+ASP onboarding and lifecycle activities shall be performed by authorised internal roles defined in the Roles, Responsibilities & Access Matrix.
+
+| Role | ASP Onboarding Responsibility |
+| ---- | ----------------------------- |
+| **GSP Coordination Lead** | Coordinate ASP onboarding communication, GSTN-related coordination and authorised external communication where applicable. |
+| **Platform Operations Lead** | Perform technical evaluation, integration validation, production readiness review and access provisioning support. |
+| **Information Security Lead** | Verify security and compliance evidence, review access-related risks and security observations. |
+| **GSP Governance Lead** | Approve production onboarding, significant access changes, exceptions, suspension, revocation and risk acceptance where required. |
+| **ASP** | Provide required information and comply with applicable GSTN operational and security requirements. |
 
 # 4. ASP Onboarding Procedure
 
@@ -40,6 +42,8 @@ Required information includes, as applicable:
 - ASP GSTIN.
 - Contact details.
 - Technical integration information.
+- Requested access scope.
+- Authorised ASP contact or representative details.
 
 ## Step 2 – Technical Evaluation
 
@@ -52,6 +56,7 @@ The review includes:
 - Authentication requirements.
 - Communication requirements.
 - Production readiness.
+- Operational support expectations.
 
 ## Step 3 – Security & Compliance Verification
 
@@ -66,9 +71,13 @@ Before production access is approved, the following shall be verified:
 
 Any identified observations shall be reviewed and resolved before production approval.
 
+Exceptions, unresolved observations or risk acceptance shall be reviewed by the Information Security Lead and approved by the GSP Governance Lead where required.
+
 ## Step 4 – Approval
 
 Following successful verification, the onboarding request is reviewed through the established approval process.
+
+Production onboarding shall be approved by the GSP Governance Lead or an authorised delegate before provisioning is completed.
 
 Only approved ASPs proceed to provisioning.
 
@@ -80,6 +89,7 @@ Following approval:
 - Authentication credentials are provisioned.
 - Access permissions are assigned.
 - Required platform configuration is completed.
+- Provisioning evidence is recorded.
 
 ## Step 6 – Production Activation
 
@@ -93,16 +103,43 @@ Following onboarding, ASP access shall be governed throughout its operational li
 
 Lifecycle activities include:
 
-- Periodic review of ASP information.
+- Annual review of ASP information and authorised access.
 - Review of applicable security compliance requirements.
-- Renewal of required compliance evidence.
+- Renewal or revalidation of required compliance evidence before expiry where applicable.
 - Modification of authorised access.
 - Suspension or revocation of ASP access where required.
+- Offboarding and access closure where the ASP relationship ends or access is no longer required.
 
-# 6. Documentation
+Significant access changes, suspension, revocation, offboarding and exceptions shall be reviewed and approved by the GSP Governance Lead where required.
+
+# 6. Documentation and Evidence
 
 Supporting operational records, system logs and other technical evidence may be maintained, as appropriate, in accordance with operational requirements.
 
-# 7. Compliance
+Evidence may include:
+
+- ASP onboarding request.
+- ASP GSTIN, contact and identity verification records.
+- Technical integration and production readiness evidence.
+- Security and compliance evidence, including ISO/IEC 27001 certification and VAPT report where required.
+- Approval record.
+- Access provisioning record.
+- Periodic access and compliance review record.
+- Access modification, suspension, revocation or offboarding record where applicable.
+- Exception or risk acceptance approval where applicable.
+
+# 7. Review
+
+This procedure shall be reviewed annually or whenever significant changes occur to ASP onboarding requirements, GSTN requirements, access management practices or GSP platform operations.
+
+# 8. Compliance
 
 Compliance with this procedure is supported through documented operational records and implementation evidence maintained in accordance with organisational procedures and applicable GSTN requirements.
+
+# Reference Documents
+
+- ASP Onboarding & Lifecycle Management Policy
+- Access Control Policy
+- User & Credential Management Procedure
+- Roles, Responsibilities & Access Matrix
+- Contact Directory
