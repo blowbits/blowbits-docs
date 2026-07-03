@@ -4,8 +4,6 @@ company: Blowbits Solutions LLP
 classification: Internal
 ---
 
-**Prepared for:** GSTN GSP Security Assessment
-
 # 1. Purpose
 
 This annexure describes the infrastructure security framework and operational controls implemented to support the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.

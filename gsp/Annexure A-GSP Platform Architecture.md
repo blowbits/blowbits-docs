@@ -4,8 +4,6 @@ company: Blowbits Solutions LLP
 classification: Internal
 ---
 
-**Prepared for:** GSTN GSP Security Assessment
-
 # 1. Purpose
 
 This annexure describes the logical architecture, integration model, request processing lifecycle and trust boundary design governing the Blowbits Solutions LLP GST Suvidha Provider (GSP) platform.
