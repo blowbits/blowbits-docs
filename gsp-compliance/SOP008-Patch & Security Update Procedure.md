@@ -163,5 +163,5 @@ Compliance with this procedure is supported through documented patch records, ch
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
 | 2025-11-21 | 1.0 | Initial release of the patch and security update procedure. |
-| 2026-02-15 | 1.1 | Aligned patch handling with vulnerability severity, remediation targets and change management. |
+| 2026-02-16 | 1.1 | Aligned patch handling with vulnerability severity, remediation targets and change management. |
 | 2026-03-10 | 1.2 | Added security advisory sources and monthly advisory review cadence. |

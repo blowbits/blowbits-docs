@@ -3,7 +3,7 @@ title: INFRASTRUCTURE SECURITY POLICY
 company: Blowbits Solutions LLP
 classification: Internal
 revision: "1.1"
-last_update_date: 2026-01-25
+last_update_date: 2026-01-27
 ---
 
 # 1. Purpose
@@ -96,4 +96,4 @@ This policy shall be reviewed annually or whenever significant operational, orga
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
 | 2025-11-12 | 1.0 | Initial release of the infrastructure security policy. |
-| 2026-01-25 | 1.1 | Updated infrastructure baseline, patching, monitoring and exception expectations. |
+| 2026-01-27 | 1.1 | Updated infrastructure baseline, patching, monitoring and exception expectations. |

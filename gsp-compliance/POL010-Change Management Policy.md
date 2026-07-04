@@ -3,7 +3,7 @@ title: CHANGE MANAGEMENT POLICY
 company: Blowbits Solutions LLP
 classification: Internal
 revision: "1.1"
-last_update_date: 2026-02-15
+last_update_date: 2026-02-16
 ---
 
 # 1. Purpose
@@ -103,5 +103,5 @@ Detailed operational processes and technical controls are maintained separately 
 
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
-| 2025-11-15 | 1.0 | Initial release of the change management policy. |
-| 2026-02-15 | 1.1 | Added change types, role responsibilities, emergency change and evidence expectations. |
+| 2025-11-14 | 1.0 | Initial release of the change management policy. |
+| 2026-02-16 | 1.1 | Added change types, role responsibilities, emergency change and evidence expectations. |

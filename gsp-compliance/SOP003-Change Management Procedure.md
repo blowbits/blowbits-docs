@@ -3,7 +3,7 @@ title: CHANGE MANAGEMENT PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
 revision: "1.1"
-last_update_date: 2026-02-15
+last_update_date: 2026-02-16
 ---
 
 # 1. Purpose
@@ -138,4 +138,4 @@ Compliance with this procedure is supported through documented operational recor
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
 | 2025-11-19 | 1.0 | Initial release of the change management procedure. |
-| 2026-02-15 | 1.1 | Updated change classification, approval, rollback, emergency change and closure evidence steps. |
+| 2026-02-16 | 1.1 | Updated change classification, approval, rollback, emergency change and closure evidence steps. |

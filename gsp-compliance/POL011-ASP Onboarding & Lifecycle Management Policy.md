@@ -104,5 +104,5 @@ Detailed operational processes and technical controls are maintained separately 
 
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
-| 2025-11-16 | 1.0 | Initial release of the ASP onboarding and lifecycle management policy. |
+| 2025-11-17 | 1.0 | Initial release of the ASP onboarding and lifecycle management policy. |
 | 2026-02-18 | 1.1 | Added ASP lifecycle coverage, role ownership, periodic review and evidence expectations. |

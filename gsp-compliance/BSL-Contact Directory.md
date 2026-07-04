@@ -3,7 +3,7 @@ title: CONTACT DIRECTORY
 company: Blowbits Solutions LLP
 classification: Internal
 revision: "1.2"
-last_update_date: 2026-03-15
+last_update_date: 2026-03-16
 ---
 
 # 1. Purpose
@@ -152,6 +152,6 @@ This directory shall be reviewed at least annually and whenever there is a chang
 
 | Date | Revision | Change Summary |
 | ---- | -------- | -------------- |
-| 2025-11-22 | 1.0 | Initial release of the contact directory. |
+| 2025-11-24 | 1.0 | Initial release of the contact directory. |
 | 2026-01-20 | 1.1 | Updated internal role contacts and external communication point labels. |
-| 2026-03-15 | 1.2 | Converted internal and external contact tables to contact-wise format for improved document readability. |
+| 2026-03-16 | 1.2 | Converted internal and external contact tables to contact-wise format for improved document readability. |
