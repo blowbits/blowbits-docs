@@ -18,7 +18,7 @@ The assessment identifies key information security risks, existing controls, res
 
 This assessment applies to the production GSP platform, cloud infrastructure, applications, databases, network components, supporting services and operational processes.
 
-# 3. Assessment Metadata
+# 3. Assessment Details
 
 | Field           | Value                     |
 | --------------- | ------------------------- |
@@ -47,16 +47,93 @@ Residual risk may remain because no control eliminates risk completely, external
 
 # 5. Information Security Risk Assessment
 
-| Risk                                      | Potential Impact                                                             | Existing Controls                                                                                                                                                       | Inherent Risk | Residual Risk | Risk Owner                | Treatment Status                                                                                   |
-| ----------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- | ------------------------- | -------------------------------------------------------------------------------------------------- |
-| Unauthorised access to production systems | Compromise of taxpayer information or critical services                      | Role-based access control, least privilege, MFA, restricted privileged access, periodic access review and activity logging where supported                              | High          | Medium        | Information Security Lead | Managed through access control, monitoring and periodic review                                     |
-| Application vulnerabilities               | Data compromise, service interruption or unauthorised transaction processing | Latest supported .NET framework, secure development practices, regular VAPT, patch management, security reviews, change control and remediation tracking                | High          | Low           | Information Security Lead | Managed through supported framework usage, regular VAPT, remediation tracking and validation       |
-| Cloud infrastructure failure              | Service disruption or reduced availability of GSP services                   | AWS high availability design, second availability zone, monitoring, backup, recovery procedures and recovery testing                                                    | High          | Low           | Platform Operations Lead  | Managed through second availability zone design, recovery planning and periodic recovery testing   |
-| Malware or ransomware                     | Data loss, data corruption or operational disruption                         | Endpoint protection, restricted administrative access, backup strategy, monitoring and incident response procedures                                                     | High          | Medium        | Information Security Lead | Managed through preventive controls, monitoring, backup and incident response readiness            |
-| Insider misuse                            | Unauthorised system changes, data access or misuse of privileged access      | Role-based access, least privilege, audit logging where supported, management oversight, small-team compensating controls and periodic access review                    | High          | Medium        | GSP Governance Lead       | Managed through access review, approval controls, logging and governance oversight                 |
-| Network attacks                           | Service disruption, unauthorised access or exposure of internal services     | Firewall controls, reverse proxy, TLS encryption, restricted network pathways, intrusion prevention and continuous monitoring                                           | High          | Medium        | Platform Operations Lead  | Managed through network controls, monitoring and periodic review                                   |
-| Data loss or corruption                   | Loss or corruption of taxpayer information or operational data               | Continuous PostgreSQL streaming replication, weekly full backup, archive log backup every 5 minutes, 30-day retention, encrypted S3 backup storage and recovery testing | High          | Low           | Platform Operations Lead  | Managed through replication, backup, recovery testing and access restriction                       |
-| Third-party service disruption            | Temporary interruption of external integrations or support services          | Monitoring, escalation through authorised contact channels, failover procedures where applicable and incident management process                                        | Medium        | Medium        | GSP Coordination Lead     | Accepted with monitoring because external service availability is not fully controlled by Blowbits |
+## 5.1 Unauthorised Access to Production Systems
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Compromise of taxpayer information or critical services |
+| Existing Controls | Role-based access control, least privilege, MFA, restricted privileged access, periodic access review and activity logging where supported |
+| Inherent Risk | High |
+| Residual Risk | Medium |
+| Risk Owner | Information Security Lead |
+| Treatment Status | Managed through access control, monitoring and periodic review |
+
+## 5.2 Application Vulnerabilities
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Data compromise, service interruption or unauthorised transaction processing |
+| Existing Controls | Latest supported .NET framework, secure development practices, regular VAPT, patch management, security reviews, change control and remediation tracking |
+| Inherent Risk | High |
+| Residual Risk | Low |
+| Risk Owner | Information Security Lead |
+| Treatment Status | Managed through supported framework usage, regular VAPT, remediation tracking and validation |
+
+## 5.3 Cloud Infrastructure Failure
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Service disruption or reduced availability of GSP services |
+| Existing Controls | AWS high availability design, second availability zone, monitoring, backup, recovery procedures and recovery testing |
+| Inherent Risk | High |
+| Residual Risk | Low |
+| Risk Owner | Platform Operations Lead |
+| Treatment Status | Managed through second availability zone design, recovery planning and periodic recovery testing |
+
+## 5.4 Malware or Ransomware
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Data loss, data corruption or operational disruption |
+| Existing Controls | Endpoint protection, restricted administrative access, backup strategy, monitoring and incident response procedures |
+| Inherent Risk | High |
+| Residual Risk | Medium |
+| Risk Owner | Information Security Lead |
+| Treatment Status | Managed through preventive controls, monitoring, backup and incident response readiness |
+
+## 5.5 Insider Misuse
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Unauthorised system changes, data access or misuse of privileged access |
+| Existing Controls | Role-based access, least privilege, audit logging where supported, management oversight, small-team compensating controls and periodic access review |
+| Inherent Risk | High |
+| Residual Risk | Medium |
+| Risk Owner | GSP Governance Lead |
+| Treatment Status | Managed through access review, approval controls, logging and governance oversight |
+
+## 5.6 Network Attacks
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Service disruption, unauthorised access or exposure of internal services |
+| Existing Controls | Firewall controls, reverse proxy, TLS encryption, restricted network pathways, intrusion prevention and continuous monitoring |
+| Inherent Risk | High |
+| Residual Risk | Medium |
+| Risk Owner | Platform Operations Lead |
+| Treatment Status | Managed through network controls, monitoring and periodic review |
+
+## 5.7 Data Loss or Corruption
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Loss or corruption of taxpayer information or operational data |
+| Existing Controls | Continuous PostgreSQL streaming replication, weekly full backup, archive log backup every 5 minutes, 30-day retention, encrypted S3 backup storage and recovery testing |
+| Inherent Risk | High |
+| Residual Risk | Low |
+| Risk Owner | Platform Operations Lead |
+| Treatment Status | Managed through replication, backup, recovery testing and access restriction |
+
+## 5.8 Third-Party Service Disruption
+
+| Field | Details |
+| ----- | ------- |
+| Potential Impact | Temporary interruption of external integrations or support services |
+| Existing Controls | Monitoring, escalation through authorised contact channels, failover procedures where applicable and incident management process |
+| Inherent Risk | Medium |
+| Residual Risk | Medium |
+| Risk Owner | GSP Coordination Lead |
+| Treatment Status | Accepted with monitoring because external service availability is not fully controlled by Blowbits |
 
 # 6. Risk Treatment
 

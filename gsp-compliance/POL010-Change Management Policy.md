@@ -41,12 +41,12 @@ The framework is established to:
 
 Change management responsibilities shall be assigned to authorised internal roles defined in the Roles, Responsibilities & Access Matrix.
 
-| Role | Change Management Responsibility |
-| ---- | -------------------------------- |
-| **Platform Operations Lead** | Coordinate technical impact assessment, implementation planning, deployment, rollback planning and post-change validation. |
-| **Information Security Lead** | Review security impact for changes affecting access, configurations, vulnerabilities, security controls or sensitive information. |
-| **GSP Governance Lead** | Approve significant production changes, emergency changes, exceptions and changes with material operational, security or regulatory impact. |
-| **GSP Coordination Lead** | Coordinate GSTN or authorised external communication where changes affect GSP operations or external coordination. |
+| Role                          | Change Management Responsibility                                                                                                            |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Platform Operations Lead**  | Coordinate technical impact assessment, implementation planning, deployment, rollback planning and post-change validation.                  |
+| **Information Security Lead** | Review security impact for changes affecting access, configurations, vulnerabilities, security controls or sensitive information.           |
+| **GSP Governance Lead**       | Approve significant production changes, emergency changes, exceptions and changes with material operational, security or regulatory impact. |
+| **GSP Coordination Lead**     | Coordinate GSTN or authorised external communication where changes affect GSP operations or external coordination.                          |
 
 # 5. Change Types
 

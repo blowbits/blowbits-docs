@@ -18,12 +18,37 @@ External parties such as GSTN, CERT-In and cloud service providers are not inter
 
 # 3. Internal Roles, Responsibilities & Access Matrix
 
-| Role | Key Responsibilities | Authority | Authorised Access |
-| ---- | -------------------- | --------- | ----------------- |
-| **GSP Coordination Lead** | Primary liaison with GSTN; ASP coordination; regulatory communication; production coordination; external GSP communication and external security incident communication where applicable. | Coordinate official GSP communications; initiate external coordination through authorised channels; support production and regulatory approvals. | GSP management portal and authorised communication channels. |
-| **Platform Operations Lead** | Production deployment; application administration; infrastructure management; backup verification; recovery execution; platform availability; operational support. | Perform authorised technical administration; initiate operational recovery actions; recommend operational remediation and platform changes. | Administrative access to production infrastructure, applications, deployment systems, monitoring tools and operational records as approved. |
-| **Information Security Lead** | Security monitoring; vulnerability management; security assessment coordination; incident assessment, investigation and containment; security control review; technical security evidence coordination. | Initiate security investigation and containment actions; recommend security remediation; coordinate technical evidence collection for security events. | Access to security logs, monitoring tools, vulnerability records, incident records and security management systems as approved. |
-| **GSP Governance Lead** | Governance oversight; policy approval; privileged access approval; major operational decisions; risk and exception review; security incident oversight and closure approval for significant incidents. | Approve policies, privileged access, significant changes, exceptions, risk acceptance decisions and closure of significant incidents where required. | Management dashboards, reports, approval records and governance evidence. |
+## 3.1 GSP Coordination Lead
+
+| Field | Details |
+| ----- | ------- |
+| Key Responsibilities | Primary liaison with GSTN; ASP coordination; regulatory communication; production coordination; external GSP communication and external security incident communication where applicable. |
+| Authority | Coordinate official GSP communications; initiate external coordination through authorised channels; support production and regulatory approvals. |
+| Authorised Access | GSP management portal and authorised communication channels. |
+
+## 3.2 Platform Operations Lead
+
+| Field | Details |
+| ----- | ------- |
+| Key Responsibilities | Production deployment; application administration; infrastructure management; backup verification; recovery execution; platform availability; operational support. |
+| Authority | Perform authorised technical administration; initiate operational recovery actions; recommend operational remediation and platform changes. |
+| Authorised Access | Administrative access to production infrastructure, applications, deployment systems, monitoring tools and operational records as approved. |
+
+## 3.3 Information Security Lead
+
+| Field | Details |
+| ----- | ------- |
+| Key Responsibilities | Security monitoring; vulnerability management; security assessment coordination; incident assessment, investigation and containment; security control review; technical security evidence coordination. |
+| Authority | Initiate security investigation and containment actions; recommend security remediation; coordinate technical evidence collection for security events. |
+| Authorised Access | Access to security logs, monitoring tools, vulnerability records, incident records and security management systems as approved. |
+
+## 3.4 GSP Governance Lead
+
+| Field | Details |
+| ----- | ------- |
+| Key Responsibilities | Governance oversight; policy approval; privileged access approval; major operational decisions; risk and exception review; security incident oversight and closure approval for significant incidents. |
+| Authority | Approve policies, privileged access, significant changes, exceptions, risk acceptance decisions and closure of significant incidents where required. |
+| Authorised Access | Management dashboards, reports, approval records and governance evidence. |
 
 # 4. Role Assignment
 

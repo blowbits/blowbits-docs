@@ -23,50 +23,54 @@ This directory applies to:
 
 ## 3.1 GSP Coordination Lead
 
+| Primary Person / Designation | Ayush Sankhla |
+| Primary Phone | +91-77375-62746 |
+| Primary Email | ayush.sankhla@octagst.com |
+
 | Field                          | Details                               |
 | ------------------------------ | ------------------------------------- |
-| Primary Person / Designation   |                                       |
-| Primary Phone                  |                                       |
-| Primary Email                  |                                       |
-| Alternate Person / Designation |                                       |
-| Alternate Phone                |                                       |
-| Alternate Email                |                                       |
+| Primary Person / Designation   | Hemant Jangid                         |
+| Primary Phone                  | +91-90243-66197                       |
+| Primary Email                  | hemant.jangid@octagst.com             |
+| Alternate Person / Designation | Neeraj Punmiya                        |
+| Alternate Phone                | +91-89490-63051                       |
+| Alternate Email                | neeraj.punmiya@octagst.com            |
 | Availability                   | Business hours / emergency escalation |
 
 ## 3.2 Platform Operations Lead
 
 | Field                          | Details                          |
 | ------------------------------ | -------------------------------- |
-| Primary Person / Designation   |                                  |
-| Primary Phone                  |                                  |
-| Primary Email                  |                                  |
-| Alternate Person / Designation |                                  |
-| Alternate Phone                |                                  |
-| Alternate Email                |                                  |
+| Primary Person / Designation   | Aditya Punmiya                   |
+| Primary Phone                  | +91-82338-08665                  |
+| Primary Email                  | aditya.punmiya@octagst.com       |
+| Alternate Person / Designation | Neeraj Punmiya                   |
+| Alternate Phone                | +91-89490-63051                  |
+| Alternate Email                | neeraj.punmiya@octagst.com       |
 | Availability                   | Operational support and recovery |
 
 ## 3.3 Information Security Lead
 
 | Field                          | Details                                    |
 | ------------------------------ | ------------------------------------------ |
-| Primary Person / Designation   |                                            |
-| Primary Phone                  |                                            |
-| Primary Email                  |                                            |
-| Alternate Person / Designation |                                            |
-| Alternate Phone                |                                            |
-| Alternate Email                |                                            |
+| Primary Person / Designation   | Neeraj Punmiya                             |
+| Primary Phone                  | +91-89490-63051                            |
+| Primary Email                  | neeraj.punmiya@octagst.com                 |
+| Alternate Person / Designation | Hemant Jangid                              |
+| Alternate Phone                | +91-90243-66197                            |
+| Alternate Email                | hemant.jangid@octagst.com                  |
 | Availability                   | Security incidents and security monitoring |
 
 ## 3.4 GSP Governance Lead
 
 | Field                          | Details                             |
 | ------------------------------ | ----------------------------------- |
-| Primary Person / Designation   |                                     |
-| Primary Phone                  |                                     |
-| Primary Email                  |                                     |
-| Alternate Person / Designation |                                     |
-| Alternate Phone                |                                     |
-| Alternate Email                |                                     |
+| Primary Person / Designation   | Hemant Jangid                       |
+| Primary Phone                  | +91-90243-66197                     |
+| Primary Email                  | hemant.jangid@octagst.com           |
+| Alternate Person / Designation | Neeraj Punmiya                      |
+| Alternate Phone                | +91-89490-63051                     |
+| Alternate Email                | neeraj.punmiya@octagst.com          |
 | Availability                   | Governance escalation and approvals |
 
 # 4. External Communication Points
@@ -93,13 +97,13 @@ This directory applies to:
 
 ## 4.3 Cloud Support Channel
 
-| Field                    | Details                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------- |
-| Purpose                  | Infrastructure support and escalation                                                  |
-| Contact Person / Channel | [AWS Support](https://aws.amazon.com/contact-us/) (https://aws.amazon.com/contact-us/) |
-| Phone                    |                                                                                        |
-| Email / Portal           |                                                                                        |
-| Availability / Notes     | As per support plan                                                                    |
+| Field                    | Details                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| Purpose                  | Infrastructure support and escalation                                                 |
+| Contact Person / Channel | [AWS Support](https://aws.amazon.com/contact-us/): https://aws.amazon.com/contact-us/ |
+| Phone                    |                                                                                       |
+| Email / Portal           |                                                                                       |
+| Availability / Notes     | As per support plan                                                                   |
 
 # 5. Communication Responsibilities
 
