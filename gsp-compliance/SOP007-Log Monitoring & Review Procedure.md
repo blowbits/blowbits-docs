@@ -2,6 +2,8 @@
 title: LOG MONITORING & REVIEW PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-10
 ---
 
 # 1. Purpose
@@ -109,3 +111,10 @@ Evidence may include:
 Compliance with this procedure is supported through documented operational records and implementation evidence maintained in accordance with organisational procedures.
 
 Logging and monitoring activities shall support applicable GSTN operational, security and audit requirements.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-21 | 1.0 | Initial release of the log monitoring and review procedure. |
+| 2026-02-10 | 1.1 | Added log source coverage, review cadence, retention, integrity and evidence expectations. |

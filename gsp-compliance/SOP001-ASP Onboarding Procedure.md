@@ -2,6 +2,8 @@
 title: ASP ONBOARDING PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-18
 ---
 
 # 1. Purpose
@@ -143,3 +145,10 @@ Compliance with this procedure is supported through documented operational recor
 - User & Credential Management Procedure
 - Roles, Responsibilities & Access Matrix
 - Contact Directory
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-18 | 1.0 | Initial release of the ASP onboarding procedure. |
+| 2026-02-18 | 1.1 | Updated role responsibilities, approval, lifecycle review, offboarding and evidence requirements. |

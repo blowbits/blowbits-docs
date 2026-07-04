@@ -2,6 +2,8 @@
 title: ROLES, RESPONSIBILITIES & ACCESS MATRIX
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.2"
+last_update_date: 2026-03-15
 ---
 
 # 1. Purpose
@@ -80,3 +82,11 @@ Unnecessary or obsolete access shall be removed promptly.
 # 8. Review
 
 This document shall be reviewed annually or whenever there is a change in organisational responsibilities, role definitions or access requirements.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-22 | 1.0 | Initial release of the roles, responsibilities and access matrix. |
+| 2026-01-20 | 1.1 | Updated internal role names, authority model and small-team segregation guidance. |
+| 2026-03-15 | 1.2 | Converted role matrix to role-wise format for improved document readability. |

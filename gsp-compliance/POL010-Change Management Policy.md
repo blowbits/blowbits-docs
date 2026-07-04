@@ -2,6 +2,8 @@
 title: CHANGE MANAGEMENT POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-15
 ---
 
 # 1. Purpose
@@ -96,3 +98,10 @@ This policy shall be reviewed annually or whenever significant changes occur to 
 Compliance with this policy is supported through documented procedures, operational practices, change records, approval records, validation evidence, emergency change review records and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-15 | 1.0 | Initial release of the change management policy. |
+| 2026-02-15 | 1.1 | Added change types, role responsibilities, emergency change and evidence expectations. |

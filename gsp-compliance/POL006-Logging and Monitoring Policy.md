@@ -2,6 +2,8 @@
 title: LOGGING & MONITORING POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-10
 ---
 
 # 1. Purpose
@@ -79,3 +81,10 @@ The operational framework includes:
 Compliance with this policy is supported through documented procedures, operational practices, monitoring activities and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-13 | 1.0 | Initial release of the logging and monitoring policy. |
+| 2026-02-10 | 1.1 | Added log source coverage, retention requirements, time synchronisation and sensitive data guidance. |

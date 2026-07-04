@@ -2,6 +2,8 @@
 title: INFORMATION SECURITY POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.2"
+last_update_date: 2026-02-22
 ---
 
 # 1. Purpose
@@ -101,3 +103,11 @@ Detailed operational processes and technical controls are maintained separately 
 # 11. Review
 
 This policy shall be reviewed annually or whenever significant operational, organisational, technical, regulatory or contractual changes occur.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-10 | 1.0 | Initial release of the information security policy. |
+| 2026-01-20 | 1.1 | Updated governance roles and control domain alignment. |
+| 2026-02-22 | 1.2 | Aligned policy with risk assessment, evidence and review expectations. |

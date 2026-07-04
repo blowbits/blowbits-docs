@@ -2,6 +2,8 @@
 title: INCIDENT RESPONSE POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-10
 ---
 
 # 1. Purpose
@@ -76,3 +78,10 @@ Detailed operational processes, role assignments and contact details are maintai
 - SOP-005 – Incident Response Procedure
 - Roles, Responsibilities & Access Matrix
 - Contact Directory
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-17 | 1.0 | Initial release of the incident response policy. |
+| 2026-02-10 | 1.1 | Updated incident governance, escalation, communication and evidence expectations. |

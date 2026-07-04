@@ -2,6 +2,8 @@
 title: NETWORK SECURITY POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-01-25
 ---
 
 # 1. Purpose
@@ -85,3 +87,10 @@ Detailed operational processes and technical controls are maintained separately 
 # 9. Review
 
 This policy shall be reviewed annually or whenever significant operational, organisational, technical, regulatory or network architecture changes occur.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-12 | 1.0 | Initial release of the network security policy. |
+| 2026-01-25 | 1.1 | Updated network control principles, rule review and change management alignment. |

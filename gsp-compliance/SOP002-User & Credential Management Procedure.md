@@ -2,6 +2,8 @@
 title: USER & CREDENTIAL MANAGEMENT PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-01-20
 ---
 
 # 1. Purpose
@@ -210,3 +212,10 @@ Compliance with this procedure is supported through documented operational recor
 - POL-002 – Access Control Policy
 - POL-003 – Password & Credential Management Policy
 - Roles, Responsibilities & Access Matrix
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-18 | 1.0 | Initial release of the user and credential management procedure. |
+| 2026-01-20 | 1.1 | Updated account lifecycle, privileged access, credential protection and evidence requirements. |

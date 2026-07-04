@@ -2,6 +2,8 @@
 title: INFORMATION SECURITY RISK ASSESSMENT
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-22
 assessment_date: 2026-02-22
 reviewed_by: Information Security Lead
 approved_by: GSP Governance Lead
@@ -164,3 +166,10 @@ Information security risks shall be reviewed:
 # 8. Review
 
 This document shall be reviewed annually or whenever significant operational, organisational, technical or regulatory changes occur.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-25 | 1.0 | Initial release of the information security risk assessment. |
+| 2026-02-22 | 1.1 | Updated risk ratings, residual risk rationale, assessment details and risk presentation format. |

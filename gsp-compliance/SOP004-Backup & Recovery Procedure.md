@@ -2,6 +2,8 @@
 title: BACKUP & RECOVERY PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-05
 ---
 
 # 1. Purpose
@@ -196,3 +198,10 @@ Compliance with this procedure is supported through documented backup records, r
 - POL-007 – Backup and Recovery Policy
 - Roles, Responsibilities & Access Matrix
 - Contact Directory
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-19 | 1.0 | Initial release of the backup and recovery procedure. |
+| 2026-02-05 | 1.1 | Updated PostgreSQL backup frequency, failure handling, restoration approval and recovery testing steps. |

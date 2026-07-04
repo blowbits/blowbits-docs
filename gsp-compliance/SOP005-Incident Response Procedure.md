@@ -2,6 +2,8 @@
 title: INCIDENT RESPONSE PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-10
 ---
 
 # 1. Purpose
@@ -223,3 +225,10 @@ Where applicable, regulatory, contractual or GSTN notification requirements shal
 - POL-012 – Incident Response Policy
 - Roles, Responsibilities & Access Matrix
 - Contact Directory
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-20 | 1.0 | Initial release of the incident response procedure. |
+| 2026-02-10 | 1.1 | Added severity classification, escalation sequence, communication responsibilities and incident evidence expectations. |

@@ -2,6 +2,8 @@
 title: ASP ONBOARDING & LIFECYCLE MANAGEMENT POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-18
 ---
 
 # 1. Purpose
@@ -97,3 +99,10 @@ This policy shall be reviewed annually or whenever significant changes occur to 
 Compliance with this policy is supported through documented procedures, operational practices, lifecycle records and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy and applicable GSTN requirements.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-16 | 1.0 | Initial release of the ASP onboarding and lifecycle management policy. |
+| 2026-02-18 | 1.1 | Added ASP lifecycle coverage, role ownership, periodic review and evidence expectations. |

@@ -2,6 +2,8 @@
 title: PATCH & SECURITY UPDATE PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.2"
+last_update_date: 2026-03-10
 ---
 
 # 1. Purpose
@@ -155,3 +157,11 @@ Compliance with this procedure is supported through documented patch records, ch
 - Vulnerability Assessment & Remediation Procedure
 - Change Management Procedure
 - Roles, Responsibilities & Access Matrix
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-21 | 1.0 | Initial release of the patch and security update procedure. |
+| 2026-02-15 | 1.1 | Aligned patch handling with vulnerability severity, remediation targets and change management. |
+| 2026-03-10 | 1.2 | Added security advisory sources and monthly advisory review cadence. |

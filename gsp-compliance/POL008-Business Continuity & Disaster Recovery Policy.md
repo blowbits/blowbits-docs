@@ -2,6 +2,8 @@
 title: BUSINESS CONTINUITY & DISASTER RECOVERY POLICY
 company: Blowbits Solutions LLP
 classification: Internal
+revision: "1.1"
+last_update_date: 2026-02-05
 ---
 
 # 1. Purpose
@@ -125,3 +127,10 @@ The following records may be maintained, where applicable:
 Compliance with this policy is supported through documented procedures, operational practices, recovery exercises and implementation evidence.
 
 Detailed operational processes and technical controls are maintained separately to support the effective implementation of this policy.
+
+# Revision History
+
+| Date | Revision | Change Summary |
+| ---- | -------- | -------------- |
+| 2025-11-14 | 1.0 | Initial release of the business continuity and disaster recovery policy. |
+| 2026-02-05 | 1.1 | Added continuity scenarios, role responsibilities, recovery objectives, testing and evidence expectations. |
