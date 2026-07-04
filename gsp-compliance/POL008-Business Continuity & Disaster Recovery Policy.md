@@ -4,6 +4,7 @@ company: Blowbits Solutions LLP
 classification: Internal
 revision: "1.1"
 last_update_date: 2026-02-05
+logo: ../assets/octa-gst-logo.png
 ---
 
 # 1. Purpose

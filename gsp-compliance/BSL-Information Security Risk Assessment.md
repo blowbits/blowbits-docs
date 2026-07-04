@@ -8,6 +8,7 @@ assessment_date: 2026-02-23
 reviewed_by: Information Security Lead
 approved_by: GSP Governance Lead
 next_review_due: 2027-02-22
+logo: ../assets/octa-gst-logo.png
 ---
 
 # 1. Purpose
