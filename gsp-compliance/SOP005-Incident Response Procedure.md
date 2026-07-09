@@ -2,8 +2,8 @@
 title: INCIDENT RESPONSE PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
-revision: "1.1"
-last_update_date: 2026-02-10
+revision: '1.2'
+last_update_date: 2026-07-09
 logo: ../assets/octa-gst-logo.png
 ---
 
@@ -23,13 +23,13 @@ Operational records, communication records and supporting evidence generated dur
 
 Incident response activities shall be performed by authorised internal roles defined in the Roles, Responsibilities & Access Matrix.
 
-| Role | Incident Response Responsibility |
-| ---- | -------------------------------- |
-| **All Personnel** | Report suspected security incidents promptly through established reporting channels. |
+| Role                          | Incident Response Responsibility                                                                                                    |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **All Personnel**             | Report suspected security incidents promptly through established reporting channels.                                                |
 | **Information Security Lead** | Assess, classify, investigate and contain security incidents; preserve relevant security evidence; coordinate security remediation. |
-| **Platform Operations Lead** | Support containment, recovery, service restoration, platform validation and operational remediation. |
-| **GSP Coordination Lead** | Coordinate GSTN communication and other authorised external communication relating to GSP operations where applicable. |
-| **GSP Governance Lead** | Provide oversight for significant incidents; approve major response decisions, exceptions and closure where required. |
+| **Platform Operations Lead**  | Support containment, recovery, service restoration, platform validation and operational remediation.                                |
+| **GSP Coordination Lead**     | Coordinate GSTN communication and other authorised external communication relating to GSP operations where applicable.              |
+| **GSP Governance Lead**       | Provide oversight for significant incidents; approve major response decisions, exceptions and closure where required.               |
 
 Where statutory cyber incident reporting is required, the GSP Coordination Lead shall coordinate the notification with the GSP Governance Lead unless a separate authorised reporting coordinator is assigned in the Contact Directory.
 
@@ -50,12 +50,27 @@ Information security incidents may include, but are not limited to:
 
 Incidents shall be classified based on operational impact, security impact, data sensitivity, scope and regulatory relevance.
 
-| Severity | Description | Expected Handling |
-| -------- | ----------- | ----------------- |
+| Severity     | Description                                                                                                                                                  | Expected Handling                                                                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Critical** | Confirmed or highly likely compromise affecting taxpayer information, production GSP services, external reporting obligations or major service availability. | Immediate Information Security Lead and Platform Operations Lead action, GSP Governance Lead notification and external notification assessment. |
-| **High** | Significant security event affecting production systems, privileged access, sensitive information or service integrity. | Prompt investigation, containment planning and management escalation where required. |
-| **Medium** | Security event with limited impact, controlled exposure or localised operational effect. | Documented investigation and remediation through normal operational procedures. |
-| **Low** | Minor event, suspicious activity or policy deviation with no confirmed impact. | Record, review and close after appropriate validation. |
+| **High**     | Significant security event affecting production systems, privileged access, sensitive information or service integrity.                                      | Prompt investigation, containment planning and management escalation where required.                                                            |
+| **Medium**   | Security event with limited impact, controlled exposure or localised operational effect.                                                                     | Documented investigation and remediation through normal operational procedures.                                                                 |
+| **Low**      | Minor event, suspicious activity or policy deviation with no confirmed impact.                                                                               | Record, review and close after appropriate validation.                                                                                          |
+
+## 5.1 Target Response Timelines
+
+Incident response timelines shall be prioritised based on severity, operational impact, security impact, data sensitivity and regulatory relevance.
+
+The target timelines are:
+
+| Severity     | Initial Assessment / Escalation                                              | Containment Target                     | Resolution / Recovery Target                                                                  |
+| ------------ | ---------------------------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Critical** | Immediate assessment and escalation, target within 1 hour of identification. | Immediate containment action.          | Restore, mitigate or stabilise as soon as practicable, target within 24 hours where feasible. |
+| **High**     | Prompt assessment and escalation, target within 4 hours of identification.   | Same business day where feasible.      | Target within 3 business days where feasible.                                                 |
+| **Medium**   | Assessment within 1 business day.                                            | Within 3 business days where feasible. | Target within 7 business days where feasible.                                                 |
+| **Low**      | Assessment within 3 business days.                                           | As applicable based on impact.         | Through planned review, maintenance or corrective action.                                     |
+
+Actual resolution timelines may vary based on incident complexity, forensic requirements, third-party dependencies, regulatory coordination, service restoration needs or approved risk-based decisions. External notification timelines, where applicable, shall follow the Contact Directory and applicable regulatory or contractual requirements.
 
 # 6. Incident Response Procedure
 
@@ -166,15 +181,15 @@ Following containment, recovery and corrective action planning:
 
 # 7. Communication Responsibilities
 
-| Communication Type | Responsible Role |
-| ------------------ | ---------------- |
-| Internal incident reporting | All Personnel |
-| Security investigation updates | Information Security Lead |
-| Operational recovery updates | Platform Operations Lead |
-| Governance escalation | Information Security Lead |
-| GSTN communication | GSP Coordination Lead |
-| CERT-In reporting, where applicable | GSP Coordination Lead with GSP Governance Lead oversight, unless separately assigned |
-| Customer or stakeholder communication, where applicable | GSP Governance Lead or authorised delegate |
+| Communication Type                                      | Responsible Role                                                                     |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Internal incident reporting                             | All Personnel                                                                        |
+| Security investigation updates                          | Information Security Lead                                                            |
+| Operational recovery updates                            | Platform Operations Lead                                                             |
+| Governance escalation                                   | Information Security Lead                                                            |
+| GSTN communication                                      | GSP Coordination Lead                                                                |
+| CERT-In reporting, where applicable                     | GSP Coordination Lead with GSP Governance Lead oversight, unless separately assigned |
+| Customer or stakeholder communication, where applicable | GSP Governance Lead or authorised delegate                                           |
 
 # 8. Contact Directory
 
@@ -229,7 +244,8 @@ Where applicable, regulatory, contractual or GSTN notification requirements shal
 
 # Revision History
 
-| Date | Revision | Change Summary |
-| ---- | -------- | -------------- |
-| 2025-11-20 | 1.0 | Initial release of the incident response procedure. |
-| 2026-02-10 | 1.1 | Added severity classification, escalation sequence, communication responsibilities and incident evidence expectations. |
+| Date       | Revision | Change Summary                                                                                                         |
+| ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 2025-11-20 | 1.0      | Initial release of the incident response procedure.                                                                    |
+| 2026-02-10 | 1.1      | Added severity classification, escalation sequence, communication responsibilities and incident evidence expectations. |
+| 2026-07-09 | 1.2      | Added severity-based target timelines for assessment, escalation, containment and resolution or recovery.              |
