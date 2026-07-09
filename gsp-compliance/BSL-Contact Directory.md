@@ -2,8 +2,8 @@
 title: CONTACT DIRECTORY
 company: Blowbits Solutions LLP
 classification: Internal
-revision: '1.2'
-last_update_date: 2026-03-16
+revision: '1.3'
+last_update_date: 2026-07-09
 logo: ../assets/octa-gst-logo.png
 ---
 
@@ -25,10 +25,6 @@ This directory applies to:
 # 3. Internal Role Assignments and Contacts
 
 ## 3.1 GSP Coordination Lead
-
-| Primary Person / Designation | Ayush Sankhla |
-| Primary Phone | +91-77375-62746 |
-| Primary Email | ayush.sankhla@octagst.com |
 
 | Field                          | Details                               |
 | ------------------------------ | ------------------------------------- |
@@ -87,6 +83,7 @@ This directory applies to:
 | Phone                    | +91-98912-85704                                       |
 | Email / Portal           | sachin.gupta@gstn.org.in                              |
 | Availability / Notes     | As provided by GSTN                                   |
+| Notification Timeline    | Promptly after incident assessment confirms actual or potential impact to GSP services, GSTN integration, taxpayer information, regulatory obligations or external communication requirements. Initial notification shall be made as soon as practicable, followed by updates as material information becomes available. |
 
 ## 4.2 CERT-In Reporting Channel
 
@@ -97,6 +94,7 @@ This directory applies to:
 | Phone                    | +91-11-24368546                                               |
 | Email / Portal           | incident@cert-in.org.in                                       |
 | Availability / Notes     | Use current official reporting channel                        |
+| Notification Timeline    | Report applicable cyber security incidents to CERT-In within the statutory timeline prescribed by CERT-In directions, currently within 6 hours of noticing such incident or being brought to notice about such incident, where CERT-In reporting is applicable. |
 
 ## 4.3 Cloud Support Channel
 
@@ -156,3 +154,4 @@ This directory shall be reviewed at least annually and whenever there is a chang
 | 2025-11-24 | 1.0      | Initial release of the contact directory.                                                                |
 | 2026-01-20 | 1.1      | Updated internal role contacts and external communication point labels.                                  |
 | 2026-03-16 | 1.2      | Converted internal and external contact tables to contact-wise format for improved document readability. |
+| 2026-07-09 | 1.3      | Added GSTN and CERT-In incident notification timelines under external communication points.              |
