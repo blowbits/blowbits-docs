@@ -72,6 +72,19 @@ The target timelines are:
 
 Actual resolution timelines may vary based on incident complexity, forensic requirements, third-party dependencies, regulatory coordination, service restoration needs or approved risk-based decisions. External notification timelines, where applicable, shall follow the Contact Directory and applicable regulatory or contractual requirements.
 
+## 5.2 RCA and Incident Report Timelines
+
+Root Cause Analysis (RCA) or incident report documentation shall be prepared based on incident severity and available investigation information.
+
+| Severity     | RCA / Incident Report Timeline                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Critical** | Initial RCA or incident report within 3 business days after containment or service stabilisation; final RCA within 10 business days where feasible. |
+| **High**     | RCA or incident report within 5 business days after containment where feasible.                                                                   |
+| **Medium**   | RCA notes or incident closure summary within 10 business days where RCA is required.                                                             |
+| **Low**      | RCA is not mandatory unless the event is repeated, escalated or indicates a control weakness; closure notes are sufficient.                       |
+
+RCA timelines may be extended where additional forensic investigation, third-party input, regulatory coordination or extended monitoring is required. Any significant delay shall be documented in the incident record.
+
 # 6. Incident Response Procedure
 
 ## Step 1 – Identification
@@ -248,4 +261,4 @@ Where applicable, regulatory, contractual or GSTN notification requirements shal
 | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------- |
 | 2025-11-20 | 1.0      | Initial release of the incident response procedure.                                                                    |
 | 2026-02-10 | 1.1      | Added severity classification, escalation sequence, communication responsibilities and incident evidence expectations. |
-| 2026-07-09 | 1.2      | Added severity-based target timelines for assessment, escalation, containment and resolution or recovery.              |
+| 2026-07-09 | 1.2      | Added severity-based target timelines for assessment, escalation, containment, resolution, recovery and RCA reporting. |
