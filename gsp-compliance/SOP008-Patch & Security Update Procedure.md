@@ -2,8 +2,8 @@
 title: PATCH & SECURITY UPDATE PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
-revision: "1.2"
-last_update_date: 2026-03-10
+revision: "1.3"
+last_update_date: 2026-07-09
 logo: ../assets/octa-gst-logo.png
 ---
 
@@ -71,12 +71,14 @@ Each identified update shall be evaluated to determine:
 
 Patch deployment priority shall be aligned with vulnerability severity and remediation targets defined in the Vulnerability Management Policy and Vulnerability Assessment & Remediation Procedure.
 
-| Priority | Expected Handling |
+| Priority | Deployment Target |
 | -------- | ----------------- |
-| **Critical** | Immediate review and expedited deployment or compensating control. |
-| **High** | Deploy within the applicable high-risk remediation target where feasible. |
-| **Medium** | Deploy within planned maintenance or the applicable medium-risk remediation target. |
+| **Critical** | Immediate review and expedited deployment, target within 72 hours where feasible, or compensating control. |
+| **High** | Deploy within 30 days where feasible. |
+| **Medium** | Deploy within 90 days or planned maintenance window where feasible. |
 | **Low** | Deploy through planned maintenance or periodic update activity. |
+
+Deployment timelines may vary where testing, vendor dependency, service stability, emergency change approval or compensating controls are required. Delayed deployment or risk acceptance shall be documented and approved where required.
 
 # 6. Patch Testing
 
@@ -166,3 +168,4 @@ Compliance with this procedure is supported through documented patch records, ch
 | 2025-11-21 | 1.0 | Initial release of the patch and security update procedure. |
 | 2026-02-16 | 1.1 | Aligned patch handling with vulnerability severity, remediation targets and change management. |
 | 2026-03-10 | 1.2 | Added security advisory sources and monthly advisory review cadence. |
+| 2026-07-09 | 1.3 | Added criticality-based patch deployment targets. |
