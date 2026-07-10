@@ -2,8 +2,8 @@
 title: LOGGING & MONITORING POLICY
 company: Blowbits Solutions LLP
 classification: Internal
-revision: "1.1"
-last_update_date: 2026-02-10
+revision: "1.2"
+last_update_date: 2026-07-10
 logo: ../assets/octa-gst-logo.png
 ---
 
@@ -61,9 +61,9 @@ Logging and monitoring records shall be retained based on their purpose and audi
 
 The minimum retention requirements are:
 
-- Security, access and audit logs: 7 years.
-- Operational troubleshooting logs: 90 days.
-- Incident-related logs and extracts: retained with the applicable incident records.
+- GSP audit logs, including request details, mandatory headers, response code and time taken to serve the request: 7 years.
+- Firewall operational logs, operating system logs, application logs and database logs: 30 days.
+- Incident-related logs and extracts: retained with the applicable incident ticket or incident record.
 
 # 6. Operational Monitoring
 
@@ -89,3 +89,4 @@ Detailed operational processes and technical controls are maintained separately 
 | ---- | -------- | -------------- |
 | 2025-11-13 | 1.0 | Initial release of the logging and monitoring policy. |
 | 2026-02-10 | 1.1 | Added log source coverage, retention requirements, time synchronisation and sensitive data guidance. |
+| 2026-07-10 | 1.2 | Updated log retention requirements for GSP audit logs, operational logs and incident-related logs. |

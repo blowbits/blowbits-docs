@@ -2,8 +2,8 @@
 title: LOG MONITORING & REVIEW PROCEDURE
 company: Blowbits Solutions LLP
 classification: Internal
-revision: "1.1"
-last_update_date: 2026-02-10
+revision: "1.2"
+last_update_date: 2026-07-10
 logo: ../assets/octa-gst-logo.png
 ---
 
@@ -89,9 +89,9 @@ Operational records shall be retained to support monitoring, troubleshooting and
 
 Minimum log retention shall be:
 
-- Security, access and audit logs: 7 years.
-- Operational troubleshooting logs: 90 days.
-- Incident-related logs and extracts: retained with the applicable incident records.
+- GSP audit logs, including request details, mandatory headers, response code and time taken to serve the request: 7 years.
+- Firewall operational logs, operating system logs, application logs and database logs: 30 days.
+- Incident-related logs and extracts: retained with the applicable incident ticket or incident record.
 
 The logging system shall be configured as an ingestion-only logging destination for routine operations. Authorised users may ingest, search and review logs, but the logging system does not provide a routine facility for users to delete ingested logs.
 
@@ -119,3 +119,4 @@ Logging and monitoring activities shall support applicable GSTN operational, sec
 | ---- | -------- | -------------- |
 | 2025-11-21 | 1.0 | Initial release of the log monitoring and review procedure. |
 | 2026-02-10 | 1.1 | Added log source coverage, review cadence, retention, integrity and evidence expectations. |
+| 2026-07-10 | 1.2 | Updated log retention requirements to align with the Logging and Monitoring Policy. |
